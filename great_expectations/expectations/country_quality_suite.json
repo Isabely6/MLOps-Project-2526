@@ -1,0 +1,28 @@
+{
+  "expectation_suite_name": "country_quality_suite",
+  "meta": {
+    "notes": "Lightweight suite for the post-target country dataset. Run with a Great Expectations pandas datasource/checkpoint after installing great_expectations."
+  },
+  "expectations": [
+    {
+      "expectation_type": "expect_column_to_exist",
+      "kwargs": {"column": "country"}
+    },
+    {
+      "expectation_type": "expect_column_values_to_not_be_null",
+      "kwargs": {"column": "country"}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {"column": "mortality_rate", "min_value": 0, "max_value": 1}
+    },
+    {
+      "expectation_type": "expect_column_values_to_be_between",
+      "kwargs": {"column": "Population", "min_value": 0, "strict_min": true}
+    },
+    {
+      "expectation_type": "expect_compound_columns_to_be_unique",
+      "kwargs": {"column_list": ["country"]}
+    }
+  ]
+}

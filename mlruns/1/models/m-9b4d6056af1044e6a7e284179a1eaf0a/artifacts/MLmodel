@@ -1,0 +1,24 @@
+artifact_path: file:///C:/Users/magal/Desktop/university/Data Science Msc/1st year/2nd
+  semester/Machine Learning Operations/Project/MLOps_Project/MLOps_Project/mlruns/1/models/m-9b4d6056af1044e6a7e284179a1eaf0a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-9b4d6056af1044e6a7e284179a1eaf0a
+model_size_bytes: 6969067
+model_uuid: m-9b4d6056af1044e6a7e284179a1eaf0a
+prompts: null
+run_id: 5f30860c56e84b2eb19c797761e5bd9d
+utc_time_created: '2026-06-25 17:02:24.752160'
