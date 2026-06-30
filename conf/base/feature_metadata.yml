@@ -1,0 +1,25 @@
+features:
+- feature_name: country
+  datatype: object
+  description: Country name
+- feature_name: Population
+  datatype: int64
+  description: Total population of the country in thousands
+- feature_name: GDP_per_capita
+  datatype: float64
+  description: Gross domestic product per capita
+- feature_name: Life_expectancy
+  datatype: float64
+  description: Average life expectancy
+- feature_name: Health_expenditure
+  datatype: float64
+  description: Total health expenditure as percentage of GDP
+- feature_name: Internet_usage
+  datatype: float64
+  description: Share of the population using the internet
+- feature_name: CO2_emissions
+  datatype: float64
+  description: CO2 emissions per capita
+- feature_name: mortality_severity
+  datatype: category
+  description: Categorical severity target (Low/Medium/High)

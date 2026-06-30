@@ -1,0 +1,129 @@
+country_name_mapping:
+  US: "United States"
+  "United States of America": "United States"
+  "Korea, South": "South Korea"
+  "Republic of Korea": "South Korea"
+  "Russian Federation": "Russia"
+  Czechia: "Czech Republic"
+  "Viet Nam": "Vietnam"
+  "Iran (Islamic Republic of)": "Iran"
+  "Bolivia (Plurinational State of)": "Bolivia"
+  "Brunei Darussalam": "Brunei"
+  Myanmar: "Burma"
+  "Republic of Moldova": "Moldova"
+  Swaziland: "Eswatini"
+  "Syrian Arab Republic": "Syria"
+  "The former Yugoslav Republic of Macedonia": "North Macedonia"
+  "United Republic of Tanzania": "Tanzania"
+  "Venezuela (Bolivarian Republic of)": "Venezuela"
+  "Lao People's Democratic Republic": "Laos"
+  "Democratic People's Republic of Korea": "North Korea"
+  "State of Palestine": "West Bank and Gaza"
+
+gdp_columns:
+  - GDP_per_capita
+  - GDP
+
+country_column_mapping:
+  Population in thousands (2017): Population
+  GDP per capita (current US$): GDP_per_capita
+  "Health: Total expenditure (% of GDP)": Health_expenditure
+  Individuals using the Internet (per 100 inhabitants): Internet_usage
+  CO2 emission estimates (million tons/tons per capita): CO2_emissions
+  Life expectancy at birth (females/males, years)_female: Life_expectancy_female
+  Life expectancy at birth (females/males, years)_male: Life_expectancy_male
+
+quality_report_path: data/05_reports/quality_report.json
+missing_values_path: data/05_reports/missing_values.csv
+
+data_dictionary_path: data/05_reports/data_dictionary.csv
+dataset_summary_path: data/05_reports/dataset_summary.json
+
+feature_store_features:
+  - country
+  - Population
+  - GDP_per_capita
+  - Life_expectancy
+  - Health_expenditure
+  - Internet_usage
+  - CO2_emissions
+  - mortality_severity
+
+feature_descriptions:
+  country: "Country name"
+  Population: "Total population of the country in thousands"
+  GDP_per_capita: "Gross domestic product per capita"
+  Life_expectancy: "Average life expectancy"
+  Health_expenditure: "Total health expenditure as percentage of GDP"
+  Internet_usage: "Share of the population using the internet"
+  CO2_emissions: "CO2 emissions per capita"
+  Confirmed: "Total confirmed COVID-19 cases"
+  Deaths: "Total COVID-19 deaths"
+  Active: "Currently active COVID-19 cases"
+  mortality_rate: "Deaths divided by confirmed cases"
+  mortality_severity: "Categorical severity target (Low/Medium/High)"
+
+feature_metadata_path: conf/base/feature_metadata.yml
+
+
+# ---------------------------------------------------------------------------
+# Member 4 — Deployment & Monitoring
+# ---------------------------------------------------------------------------
+
+# Serving model: a self-contained sklearn Pipeline (median imputer + RandomForest)
+# trained on the curated 6-feature feature_store contract.
+serving:
+  feature_columns:
+    - Population
+    - GDP_per_capita
+    - Life_expectancy
+    - Health_expenditure
+    - Internet_usage
+    - CO2_emissions
+  target_column: mortality_severity
+  label_order: [Low, Medium, High]
+  random_state: 42
+  test_size: 0.2
+  cv_folds: 5
+  model_version: "1.0.0"
+  mlflow_experiment: covid_mortality_serving
+  model:
+    n_estimators: 300
+    max_depth: null
+    min_samples_leaf: 1
+    class_weight: balanced
+  feature_descriptions:
+    Population: "Total population (persons)"
+    GDP_per_capita: "GDP per capita (current US$)"
+    Life_expectancy: "Average life expectancy at birth (years)"
+    Health_expenditure: "Total health expenditure (% of GDP)"
+    Internet_usage: "Individuals using the internet (per 100 inhabitants)"
+    CO2_emissions: "CO2 emissions per capita (tons)"
+
+# Data-drift monitoring thresholds + deterministic drift simulation.
+drift:
+  features:
+    - Population
+    - GDP_per_capita
+    - Life_expectancy
+    - Health_expenditure
+    - Internet_usage
+    - CO2_emissions
+  psi_bins: 10
+  js_bins: 20
+  epsilon: 1.0e-6
+  psi_warning: 0.10
+  psi_critical: 0.20
+  ks_pvalue_threshold: 0.05
+  random_state: 42
+  simulation:
+    gdp_per_capita_shift_pct: 0.30   # +30% multiplicative shift
+    health_expenditure_shift: 2.0    # +2 percentage points
+    life_expectancy_shift: -3.0      # -3 years (a plausible adverse shift)
+    missing_feature: Internet_usage
+    missing_rate: 0.10               # inject 10% missingness
+  reference_features_path: data/07_model_output/reference_features.parquet
+  current_features_path: data/07_model_output/current_features.parquet
+  drift_report_html_path: data/08_reporting/drift_report.html
+
+

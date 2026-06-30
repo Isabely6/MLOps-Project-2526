@@ -1,0 +1,141 @@
+covid_raw:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/covid.csv
+  load_args:
+    parse_dates: [Date]
+
+country_raw:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/country.csv
+
+merged_dataset:
+  type: pandas.ParquetDataSet
+  filepath: data/03_primary/merged_dataset.parquet
+
+country_mismatches:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/country_mismatches.csv
+
+target_dataset:
+  type: pandas.ParquetDataSet
+  filepath: data/04_feature/target_dataset.parquet
+
+validated_dataset:
+  type: pandas.ParquetDataSet
+  filepath: data/04_feature/validated_dataset.parquet
+
+quality_report:
+  type: kedro.extras.datasets.json.JSONDataSet
+  filepath: data/05_reports/quality_report.json
+  save_args:
+    ensure_ascii: false
+    indent: 2
+
+missing_values:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/missing_values.csv
+
+data_dictionary:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/data_dictionary.csv
+
+dataset_summary:
+  type: kedro.extras.datasets.json.JSONDataSet
+  filepath: data/05_reports/dataset_summary.json
+  save_args:
+    ensure_ascii: false
+    indent: 2
+
+feature_store:
+  type: pandas.ParquetDataSet
+  filepath: data/04_feature/feature_store.parquet
+
+engineered_dataset:
+  type: pandas.ParquetDataSet
+  filepath: data/04_feature/engineered_dataset.parquet
+
+trained_models:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/trained_models.pkl
+
+model_metrics:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/model_metrics.csv
+
+feature_importance:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/feature_importance.csv
+
+best_model_metrics:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/best_model_metrics.csv
+
+best_model:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/best_model.pkl
+
+shap_values:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/shap_values.csv
+
+shap_summary_plot:
+  type: matplotlib.MatplotlibWriter
+  filepath: data/05_reports/shap_summary.png
+  save_args:
+    format: png
+
+shap_local_plot:
+  type: matplotlib.MatplotlibWriter
+  filepath: data/05_reports/shap_local_explanation.png
+  save_args:
+    format: png
+
+# ---------------------------------------------------------------------------
+# Member 4 — Deployment & Monitoring
+# ---------------------------------------------------------------------------
+
+# Serving artifacts (self-contained inference Pipeline + JSON contract).
+serving_model:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/serving_model.pkl
+
+serving_bundle:
+  type: kedro.extras.datasets.json.JSONDataSet
+  filepath: data/06_models/serving_bundle.json
+  save_args:
+    ensure_ascii: false
+    indent: 2
+
+serving_metrics:
+  type: pandas.CSVDataSet
+  filepath: data/05_reports/serving_metrics.csv
+
+predictions:
+  type: pandas.CSVDataSet
+  filepath: data/07_model_output/predictions.csv
+
+# Data-drift monitoring artifacts.
+reference_features:
+  type: pandas.ParquetDataSet
+  filepath: data/07_model_output/reference_features.parquet
+
+current_features:
+  type: pandas.ParquetDataSet
+  filepath: data/07_model_output/current_features.parquet
+
+drift_report:
+  type: kedro.extras.datasets.json.JSONDataSet
+  filepath: data/08_reporting/drift_report.json
+  save_args:
+    ensure_ascii: false
+    indent: 2
+
+drift_table:
+  type: pandas.CSVDataSet
+  filepath: data/08_reporting/drift_table.csv
+
+drift_distributions_plot:
+  type: matplotlib.MatplotlibWriter
+  filepath: data/08_reporting/drift_distributions.png
+  save_args:
+    format: png 
