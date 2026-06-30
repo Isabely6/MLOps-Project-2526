@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlops-project"
+version = "0.1.0"
+requires-python = ">=3.9,<3.11"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.kedro]
+package_name = "mlops_project"
+project_name = "MLOps Project"
+kedro_init_version = "0.18.14"
+source_dir = "src"
+
+[tool.kedro_telemetry]
+project_id = "c654a274f6b6485f96b77fb30a169673"

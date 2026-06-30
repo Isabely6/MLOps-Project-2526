@@ -1,0 +1,9 @@
+# OPTIONAL dependency for a richer, interactive drift_report.html.
+#
+# The data_drift pipeline computes PSI / KS / Jensen-Shannon itself and can render
+# a self-contained HTML report with no third-party help. Evidently is only used to
+# produce a nicer report when it is available; the pipeline import-guards it and
+# falls back gracefully, so a failed install here never breaks `kedro run`.
+#
+# Install best-effort:  pip install -r requirements-monitoring.txt  (ok to skip)
+evidently>=0.4,<0.5

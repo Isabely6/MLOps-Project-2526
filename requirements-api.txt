@@ -1,0 +1,16 @@
+# Lightweight runtime dependencies for the FastAPI serving container ONLY.
+#
+# The served model (data/06_models/serving_model.pkl) is a pure scikit-learn
+# Pipeline, so the image does NOT need kedro, xgboost, lightgbm, shap, mlflow or
+# evidently. Keeping this list minimal yields a small, fast-building image.
+#
+# scikit-learn / numpy / scipy / pandas are pinned to the EXACT versions used to
+# train and pickle the model (see the verified environment) so the unpickled
+# estimator stays byte-compatible inside the container.
+fastapi>=0.110,<1.0
+uvicorn[standard]>=0.29,<1.0
+scikit-learn==1.7.2
+numpy==1.26.4
+scipy==1.15.3
+pandas==2.2.3
+joblib==1.5.3
