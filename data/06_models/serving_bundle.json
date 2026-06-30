@@ -1,0 +1,82 @@
+{
+  "model_version": "1.0.0",
+  "model_type": "sklearn.pipeline.Pipeline[SimpleImputer(median)+RandomForestClassifier]",
+  "task": "covid_mortality_severity_classification",
+  "feature_names": [
+    "Population",
+    "GDP_per_capita",
+    "Life_expectancy",
+    "Health_expenditure",
+    "Internet_usage",
+    "CO2_emissions"
+  ],
+  "feature_descriptions": {
+    "Population": "Total population (persons)",
+    "GDP_per_capita": "GDP per capita (current US$)",
+    "Life_expectancy": "Average life expectancy at birth (years)",
+    "Health_expenditure": "Total health expenditure (% of GDP)",
+    "Internet_usage": "Individuals using the internet (per 100 inhabitants)",
+    "CO2_emissions": "CO2 emissions per capita (tons)"
+  },
+  "feature_medians": {
+    "Population": 9093000.0,
+    "GDP_per_capita": 5488.2,
+    "Life_expectancy": 72.80000000000001,
+    "Health_expenditure": 0.064,
+    "Internet_usage": 1.08,
+    "CO2_emissions": 274.0
+  },
+  "feature_ranges": {
+    "Population": {
+      "min": 1000.0,
+      "max": 1409517000.0
+    },
+    "GDP_per_capita": {
+      "min": 144.5,
+      "max": 169491.8
+    },
+    "Life_expectancy": {
+      "min": 49.4,
+      "max": 84.05000000000001
+    },
+    "Health_expenditure": {
+      "min": 0.015,
+      "max": 0.171
+    },
+    "Internet_usage": {
+      "min": 0.01,
+      "max": 23.58
+    },
+    "CO2_emissions": {
+      "min": 0.0,
+      "max": 101394.0
+    }
+  },
+  "label_order": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "class_order": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "metrics": {
+    "holdout": {
+      "accuracy": 0.5945945945945946,
+      "balanced_accuracy": 0.594017094017094,
+      "f1_macro": 0.592682379349046
+    },
+    "baseline": {
+      "f1_macro": 0.16326530612244897,
+      "accuracy": 0.32432432432432434,
+      "strategy": "most_frequent"
+    },
+    "beats_baseline": true,
+    "cv_f1_macro_mean": 0.4758502465313611,
+    "cv_f1_macro_std": 0.08853191427801993
+  },
+  "n_total": 182,
+  "trained_at": "2026-06-30T16:33:36+00:00"
+}

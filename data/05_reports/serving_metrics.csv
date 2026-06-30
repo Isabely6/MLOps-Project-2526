@@ -1,0 +1,2 @@
+model,holdout_accuracy,holdout_balanced_accuracy,holdout_f1_macro,cv_f1_macro_mean,cv_f1_macro_std,baseline_f1_macro,beats_baseline,n_train,n_test
+serving_model,0.5945945945945946,0.594017094017094,0.592682379349046,0.4758502465313611,0.08853191427801993,0.16326530612244897,True,145,37

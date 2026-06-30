@@ -1,0 +1,44 @@
+{
+  "checks": [
+    {
+      "check": "deaths_le_confirmed",
+      "failed_count": 0
+    },
+    {
+      "check": "population_positive",
+      "failed_count": 0
+    },
+    {
+      "check": "mortality_rate_range",
+      "failed_count": 0
+    },
+    {
+      "check": "gdp_nonnegative",
+      "failed_count": 0,
+      "details": {},
+      "checked_columns": [
+        "GDP_per_capita"
+      ],
+      "missing_columns": [
+        "GDP"
+      ]
+    },
+    {
+      "check": "country_not_null",
+      "failed_count": 0
+    },
+    {
+      "check": "active_nonnegative",
+      "failed_count": 0
+    },
+    {
+      "check": "duplicate_countries",
+      "failed_count": 0,
+      "details": {}
+    }
+  ],
+  "missing_values_overall": {
+    "total_rows": 182,
+    "total_columns": 57
+  }
+}

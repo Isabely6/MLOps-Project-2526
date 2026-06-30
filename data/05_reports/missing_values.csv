@@ -1,0 +1,58 @@
+column,missing_count,missing_pct
+country,0,0.0
+Region,0,0.0
+Surface area (km2),0,0.0
+Population,0,0.0
+"Population density (per km2, 2017)",0,0.0
+"Sex ratio (m per 100 f, 2017)",0,0.0
+GDP: Gross domestic product (million current US$),0,0.0
+"GDP growth rate (annual %, const 2005 prices)",0,0.0
+GDP_per_capita,0,0.0
+Economy: Agriculture (% of GVA),4,0.02197802197802198
+Economy: Industry (% of GVA),0,0.0
+Economy: Services and other activity (% of GVA),0,0.0
+Employment: Agriculture (% of employed),10,0.054945054945054944
+Employment: Industry (% of employed),10,0.054945054945054944
+Employment: Services (% of employed),10,0.054945054945054944
+Unemployment (% of labour force),0,0.0
+Agricultural production index (2004-2006=100),6,0.03296703296703297
+Food production index (2004-2006=100),0,0.0
+International trade: Exports (million US$),5,0.027472527472527472
+International trade: Imports (million US$),5,0.027472527472527472
+International trade: Balance (million US$),5,0.027472527472527472
+"Balance of payments, current account (million US$)",22,0.12087912087912088
+Population growth rate (average annual %),0,0.0
+Urban population (% of total population),0,0.0
+Urban population growth rate (average annual %),3,0.016483516483516484
+"Fertility rate, total (live births per woman)",0,0.0
+"Population age distribution (0-14 / 60+ years, %)",1,0.005494505494505495
+International migrant stock (000/% of total pop),0,0.0
+Refugees and others of concern to UNHCR (in thousands),15,0.08241758241758242
+Infant mortality rate (per 1000 live births,8,0.04395604395604396
+Health_expenditure,0,0.0
+Health: Physicians (per 1000 pop),0,0.0
+Education: Government expenditure (% of GDP),46,0.25274725274725274
+Education: Primary gross enrol ratio (f/m per 100 pop),8,0.04395604395604396
+Education: Secondary gross enrol ratio (f/m per 100 pop),13,0.07142857142857142
+Education: Tertiary gross enrol ratio (f/m per 100 pop),17,0.09340659340659341
+Seats held by women in national parliaments %,4,0.02197802197802198
+Mobile-cellular subscriptions (per 100 inhabitants)39,2,0.01098901098901099
+Mobile-cellular subscriptions (per 100 inhabitants)40,2,0.01098901098901099
+Internet_usage,0,0.0
+Threatened species (number),4,0.02197802197802198
+CO2_emissions,5,0.027472527472527472
+"Energy production, primary (Petajoules)",0,0.0
+Energy supply per capita (Gigajoules),6,0.03296703296703297
+"Pop using improved drinking water (urban/rural, %)",7,0.038461538461538464
+"Pop using improved sanitation facilities (urban/rural, %)",24,0.13186813186813187
+Life_expectancy_female,0,0.0
+Life_expectancy_male,0,0.0
+Labour force participation (female/male pop %)_female,0,0.0
+Labour force participation (female/male pop %)_male,0,0.0
+Life_expectancy,0,0.0
+Confirmed,0,0.0
+Deaths,0,0.0
+Recovered,0,0.0
+Active,0,0.0
+mortality_rate,0,0.0
+mortality_severity,0,0.0

@@ -1,0 +1,7 @@
+feature,psi,psi_level,ks_statistic,ks_p_value,js_divergence,drift_detected
+Population,0.0,none,0.0,1.0,0.0,False
+GDP_per_capita,0.065659,none,0.098901,0.336302,0.037148,False
+Life_expectancy,0.622972,significant,0.252747,1.6e-05,0.132814,True
+Health_expenditure,12.332813,significant,1.0,0.0,1.0,True
+Internet_usage,0.006099,none,0.015584,1.0,0.004432,False
+CO2_emissions,0.0,none,0.0,1.0,0.0,False

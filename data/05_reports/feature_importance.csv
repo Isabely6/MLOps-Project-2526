@@ -1,0 +1,1865 @@
+feature,importance
+"Pop using improved sanitation facilities (urban/rural, %)",0.022751169978704633
+CO2_emissions,0.022119484600362064
+International trade: Imports (million US$),0.022115902390864615
+Urban population growth rate (average annual %),0.021139496259583203
+"Population density (per km2, 2017)",0.02095185581863194
+Internet_usage,0.019394978178606765
+Health_expenditure,0.01916741302774476
+Labour force participation (female/male pop %)_male,0.019103071786808527
+"Balance of payments, current account (million US$)",0.018907285064478953
+Employment: Industry (% of employed),0.018751856107183832
+Population growth rate (average annual %),0.01851847275126806
+"Sex ratio (m per 100 f, 2017)",0.01832569025475445
+GDP: Gross domestic product (million current US$),0.018256900645678184
+Mobile-cellular subscriptions (per 100 inhabitants)39,0.01785722576918776
+Seats held by women in national parliaments %,0.017688713019310826
+Economy: Services and other activity (% of GVA),0.01759013153457766
+Labour force participation (female/male pop %)_female,0.017572224376991304
+Employment: Services (% of employed),0.016953270789650546
+gdp_health_ratio,0.016945708584282806
+Surface area (km2),0.01666430407840664
+"Energy production, primary (Petajoules)",0.01650380575912687
+GDP_per_capita,0.016134599707101405
+Population,0.016043325934546004
+Unemployment (% of labour force),0.015729543133479396
+Urban population (% of total population),0.015628399524881032
+International trade: Balance (million US$),0.015611235682167829
+Economy: Agriculture (% of GVA),0.015163300999270237
+Life_expectancy,0.015021839734578775
+Employment: Agriculture (% of employed),0.014713663528572207
+Life_expectancy_male,0.014586280872024657
+Economy: Industry (% of GVA),0.014578223364470249
+Mobile-cellular subscriptions (per 100 inhabitants)40,0.014462679647179478
+Health: Physicians (per 1000 pop),0.014253858908225073
+Food production index (2004-2006=100),0.014121323124751338
+Education: Government expenditure (% of GDP),0.013346967002028389
+"GDP growth rate (annual %, const 2005 prices)",0.013275771405664412
+Life_expectancy_female,0.013205434393643405
+"Fertility rate, total (live births per woman)",0.011785354745520784
+Region_WesternAsia,0.004072215430041817
+Energy supply per capita (Gigajoules)_100.0/100.0,0.002180530772911539
+Region_WesternEurope,0.00214005777289367
+Refugees and others of concern to UNHCR (in thousands)_~0.0,0.0020561388143592665
+Region_NorthernAfrica,0.0019568736802337613
+Region_EasternAfrica,0.0019494696116690005
+Region_NorthernEurope,0.0016950133909851533
+Region_SouthAmerica,0.00160876852292053
+Agricultural production index (2004-2006=100)_108,0.0016064616660155739
+Region_South-easternAsia,0.001595626817771536
+"Pop using improved drinking water (urban/rural, %)_100.0/100.0",0.0015660468100150773
+Region_WesternAfrica,0.001381609358145052
+Region_EasternAsia,0.0012861178090025425
+Agricultural production index (2004-2006=100)_112,0.0012535086116569358
+Region_Oceania,0.0011032279249008157
+Region_SouthernEurope,0.001059754976115689
+Region_CentralAmerica,0.0010119687810825168
+Agricultural production index (2004-2006=100)_98,0.0010075675408104231
+Agricultural production index (2004-2006=100)_88,0.0009393256230381869
+Agricultural production index (2004-2006=100)_102,0.0009270936752575182
+Region_MiddleAfrica,0.0009190159391487843
+Region_EasternEurope,0.0008921340357467812
+Agricultural production index (2004-2006=100)_96,0.0008626259631132359
+Agricultural production index (2004-2006=100)_117,0.000857063039403145
+Agricultural production index (2004-2006=100)_126,0.0008512565823837004
+Energy supply per capita (Gigajoules)_98.2/98.3,0.0008449009033588204
+International trade: Exports (million US$)_2019,0.0008296869096151745
+Region_SouthernAsia,0.0008224570997311644
+Refugees and others of concern to UNHCR (in thousands)_7.9,0.0007936167024369872
+"Population age distribution (0-14 / 60+ years, %)_47.1/4.0",0.0007907554594114471
+Energy supply per capita (Gigajoules)_99.0/99.0,0.0007762157519419376
+Agricultural production index (2004-2006=100)_111,0.0007703930242691312
+Infant mortality rate (per 1000 live births_6.5,0.0007599460035890352
+Threatened species (number)_50.8,0.0007589819046131094
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.3/100.5,0.0007560061010130541
+Agricultural production index (2004-2006=100)_130,0.0007529434664309134
+International migrant stock (000/% of total pop)_741.8/14.2,0.0007519704871154765
+International trade: Exports (million US$)_1423,0.0007468578705858913
+Region_CentralAsia,0.0007332449591905016
+International trade: Exports (million US$)_9908,0.0007118074293892186
+Infant mortality rate (per 1000 live births_9.1,0.0007106944622164981
+"Pop using improved drinking water (urban/rural, %)_99.4/98.2",0.0007075751320456531
+Energy supply per capita (Gigajoules)_88.6/62.6,0.0006848850117778651
+Threatened species (number)_3.8,0.0006835265479886041
+Infant mortality rate (per 1000 live births_78.5,0.0006829976278557616
+"Population age distribution (0-14 / 60+ years, %)_15.4/21.8",0.0006768592780664862
+Infant mortality rate (per 1000 live births_3.5,0.0006690395380329151
+Region_SouthernAfrica,0.0006652559657199638
+"Population age distribution (0-14 / 60+ years, %)_15.4/25.6",0.000663486328146186
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_91.5/62.8,0.0006549186354553494
+Agricultural production index (2004-2006=100)_129,0.000649733931515186
+Threatened species (number)_1.1,0.0006379957846465252
+International trade: Exports (million US$)_189630,0.0006330551044749633
+International trade: Exports (million US$)_89120,0.0006281077424106328
+"Population age distribution (0-14 / 60+ years, %)_12.9/33.4",0.0006240365241623438
+Agricultural production index (2004-2006=100)_97,0.0006086641672826133
+Education: Primary gross enrol ratio (f/m per 100 pop)_66.6/74.1,0.0006067461662701761
+International migrant stock (000/% of total pop)_177.2/3.3,0.0006004112004854726
+Infant mortality rate (per 1000 live births_4.4,0.0006002866673562017
+Agricultural production index (2004-2006=100)_120,0.0005972531241508202
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.9/103.5,0.0005968861803258914
+Education: Secondary gross enrol ratio (f/m per 100 pop)_110.7/107.9,0.0005959970180569
+Agricultural production index (2004-2006=100)_119,0.0005952206568886205
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.8/91.4,0.0005931620243919888
+Education: Primary gross enrol ratio (f/m per 100 pop)_102.1/102.3,0.0005785030779782803
+International trade: Exports (million US$)_3030,0.0005759768216030978
+"Pop using improved drinking water (urban/rural, %)_89.1/95.6",0.0005755239785461038
+Threatened species (number)_84.0,0.0005747941560073394
+Threatened species (number)_6.6,0.0005624979255194103
+Infant mortality rate (per 1000 live births_26.9,0.0005571068774199826
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.2/101.3,0.000556842044808557
+Infant mortality rate (per 1000 live births_45.0,0.0005493840180633308
+International migrant stock (000/% of total pop)_1170.9/3.9,0.0005457109259207487
+Infant mortality rate (per 1000 live births_46.5,0.0005426011827445848
+Education: Primary gross enrol ratio (f/m per 100 pop)_110.4/115.8,0.000537992976952709
+Refugees and others of concern to UNHCR (in thousands)_4736.2,0.0005338630048226121
+International migrant stock (000/% of total pop)_2543.6/45.4,0.0005332990363059411
+Threatened species (number)_2.1,0.0005329688863008953
+International migrant stock (000/% of total pop)_133.1/0.3,0.0005295613056311141
+International trade: Exports (million US$)_927,0.0005293410576207847
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.1/99.6,0.0005265542617928244
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.2/100.2,0.0005218306875846484
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_6.4/14.9,0.0005202892464116589
+Threatened species (number)_34.0,0.0005190799081177028
+Agricultural production index (2004-2006=100)_122,0.0005190481472471656
+Infant mortality rate (per 1000 live births_17.9,0.0005178360307181258
+Infant mortality rate (per 1000 live births_19.6,0.0005013305849884541
+International trade: Exports (million US$)_10546,0.0004984707082832401
+Infant mortality rate (per 1000 live births_49.0,0.0004960922405937156
+Infant mortality rate (per 1000 live births_33.3,0.0004942879721134056
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.8/92.1,0.0004902661256133617
+"Pop using improved drinking water (urban/rural, %)_99.1/99.2",0.00048588615715024636
+"Pop using improved drinking water (urban/rural, %)_31.3/8.3",0.0004845753863682945
+Refugees and others of concern to UNHCR (in thousands)_6768.5,0.0004843274595891813
+Energy supply per capita (Gigajoules)_99.7/90.4,0.00048243430144671634
+International migrant stock (000/% of total pop)_2043.9/1.6,0.00048137747551213104
+Threatened species (number)_38.6,0.00047916479049524204
+Education: Secondary gross enrol ratio (f/m per 100 pop)_106.1/105.1,0.0004786261779590468
+Energy supply per capita (Gigajoules)_99.1/96.9,0.0004784720614442025
+Infant mortality rate (per 1000 live births_94.4,0.00047728400391791126
+International trade: Exports (million US$)_2194,0.0004771647312747193
+Infant mortality rate (per 1000 live births_3.3,0.00047674119618969744
+Infant mortality rate (per 1000 live births_8.3,0.00047548991788899723
+Energy supply per capita (Gigajoules)_97.9/97.9,0.0004751414149138082
+"Population age distribution (0-14 / 60+ years, %)_16.7/19.5",0.00047501045507969094
+Education: Primary gross enrol ratio (f/m per 100 pop)_45.9/53.2,0.0004742020574420171
+"Population age distribution (0-14 / 60+ years, %)_45.2/3.9",0.000474051412829825
+Refugees and others of concern to UNHCR (in thousands)_512.3,0.0004740454322324166
+"Population age distribution (0-14 / 60+ years, %)_42.1/4.2",0.0004735240338628554
+"Population age distribution (0-14 / 60+ years, %)_14.8/25.3",0.0004705792926176332
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.6/99.7,0.0004701548100046149
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_53.3/40.8,0.00046991066048712303
+Agricultural production index (2004-2006=100)_95,0.00046989750735020535
+Refugees and others of concern to UNHCR (in thousands)_174.2,0.00046636909751414797
+Agricultural production index (2004-2006=100)_175,0.00046627694574589735
+Threatened species (number)_67.5,0.0004652988791686698
+International trade: Exports (million US$)_495418,0.0004635909815924533
+Threatened species (number)_63.5,0.00046198939935195726
+Infant mortality rate (per 1000 live births_3.4,0.00046006661133047314
+Infant mortality rate (per 1000 live births_14.3,0.0004591851977875619
+Energy supply per capita (Gigajoules)_77.2/45.5,0.0004582502159334376
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_90.6/40.3,0.0004562608732710391
+Agricultural production index (2004-2006=100)_152,0.00045224515306367273
+Agricultural production index (2004-2006=100)_110,0.00045073800489827813
+Threatened species (number)_11.0,0.0004499930632699817
+International trade: Exports (million US$)_246,0.0004499810550245346
+"Pop using improved drinking water (urban/rural, %)_96.8/93.1",0.0004491027410514187
+International migrant stock (000/% of total pop)_91.2/1.4,0.00044514767640095696
+"Pop using improved drinking water (urban/rural, %)_93.5/88.2",0.000444898877923746
+Education: Primary gross enrol ratio (f/m per 100 pop)_109.5/110.1,0.00044445332685618137
+"Population age distribution (0-14 / 60+ years, %)_20.5/13.5",0.00044334354533243824
+Energy supply per capita (Gigajoules)_100.0/...,0.0004416063392233003
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_64.6/41.8,0.0004406067251588693
+Agricultural production index (2004-2006=100)_168,0.0004405056111456101
+Infant mortality rate (per 1000 live births_47.2,0.0004391694240082341
+Education: Secondary gross enrol ratio (f/m per 100 pop)_93.0/86.5,0.000438891955813206
+Agricultural production index (2004-2006=100)_106,0.00043655299574590846
+Education: Secondary gross enrol ratio (f/m per 100 pop)_125.6/120.7,0.00043514753209493516
+Energy supply per capita (Gigajoules)_85.4/81.9,0.000433813053043642
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_76.3/54.2,0.00043274186273741113
+International migrant stock (000/% of total pop)_3913.3/5.8,0.00043237856478515807
+"Population age distribution (0-14 / 60+ years, %)_31.4/6.2",0.0004317232856354533
+Energy supply per capita (Gigajoules)_71.8/44.8,0.0004298966865951101
+Refugees and others of concern to UNHCR (in thousands)_32.7,0.0004289691280972288
+"Population age distribution (0-14 / 60+ years, %)_27.4/8.6",0.00042760942154790966
+"Pop using improved drinking water (urban/rural, %)_55.6/35.7",0.0004256874063367498
+Infant mortality rate (per 1000 live births_15.0,0.0004256825762529663
+International migrant stock (000/% of total pop)_6763.7/28.2,0.0004252221538478307
+Threatened species (number)_33.2,0.00042404292761608964
+"Population age distribution (0-14 / 60+ years, %)_21.6/13.6",0.0004238278981308506
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_16.8/8.2,0.0004223975318020758
+"Population age distribution (0-14 / 60+ years, %)_17.8/22.3",0.0004208518733878359
+International trade: Exports (million US$)_466,0.0004201832712565034
+Threatened species (number)_42.5,0.00041996395996305016
+International migrant stock (000/% of total pop)_14.9/2.9,0.0004198761478352164
+Threatened species (number)_34.3,0.0004190337515312891
+"Population age distribution (0-14 / 60+ years, %)_35.1/6.9",0.000415629250975293
+Refugees and others of concern to UNHCR (in thousands)_0.3,0.00041508745430742503
+International migrant stock (000/% of total pop)_3112.0/41.0,0.00041360214031845456
+Refugees and others of concern to UNHCR (in thousands)_1.8,0.0004131055035366386
+International migrant stock (000/% of total pop)_136.0/4.7,0.00041287036048104776
+International migrant stock (000/% of total pop)_503.5/1.3,0.00041272755345575946
+Refugees and others of concern to UNHCR (in thousands)_0.8,0.00041174866996942594
+"Pop using improved drinking water (urban/rural, %)_97.0/98.1",0.00041138976732841615
+Refugees and others of concern to UNHCR (in thousands)_16.2,0.0004101576090768998
+International migrant stock (000/% of total pop)_382.4/1.2,0.0004089182012873134
+"Population age distribution (0-14 / 60+ years, %)_26.3/10.5",0.00040890898943492454
+Threatened species (number)_0.9,0.00040813280423935785
+"Population age distribution (0-14 / 60+ years, %)_42.7/5.0",0.0004079717912897222
+International trade: Exports (million US$)_21011,0.00040624381202491956
+Refugees and others of concern to UNHCR (in thousands)_13.8,0.0004060847854399594
+Threatened species (number)_33.1,0.00040280268213137917
+Energy supply per capita (Gigajoules)_93.8/70.1,0.0004023547390696173
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.0/103.3,0.0004007435585247359
+Education: Secondary gross enrol ratio (f/m per 100 pop)_89.0/89.7,0.000400074621475668
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_59.0/47.8,0.00039998871090770656
+Refugees and others of concern to UNHCR (in thousands)_3371.4,0.00039911543777686084
+Infant mortality rate (per 1000 live births_24.3,0.0003985529282411252
+Education: Secondary gross enrol ratio (f/m per 100 pop)_40.1/46.5,0.000398118548595295
+Refugees and others of concern to UNHCR (in thousands)_73.2,0.00039629375058872126
+Refugees and others of concern to UNHCR (in thousands)_19.4,0.00039537194943839845
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_28.7/17.9,0.000394109598577316
+International trade: Exports (million US$)_32,0.00039365303553613273
+Agricultural production index (2004-2006=100)_137,0.0003928277603786527
+International migrant stock (000/% of total pop)_93.9/3.8,0.0003925044644876945
+Agricultural production index (2004-2006=100)_131,0.00039160140931019446
+International trade: Exports (million US$)_31045,0.00039158993396100865
+"Pop using improved drinking water (urban/rural, %)_28.5/17.3",0.0003893438182470278
+Infant mortality rate (per 1000 live births_3.2,0.0003879958220269987
+Agricultural production index (2004-2006=100)_135,0.0003875813723652515
+Agricultural production index (2004-2006=100)_158,0.0003863016461689536
+International trade: Exports (million US$)_2114,0.00038209714552527653
+International trade: Exports (million US$)_77565,0.00037976010700311864
+Threatened species (number)_20.1,0.0003776906102108332
+"Pop using improved drinking water (urban/rural, %)_59.8/5.1",0.0003769835800554338
+Education: Secondary gross enrol ratio (f/m per 100 pop)_98.4/99.3,0.00037412319962739753
+Refugees and others of concern to UNHCR (in thousands)_44.7,0.00037409469134822764
+International migrant stock (000/% of total pop)_41.4/9.9,0.00037309302065462245
+International trade: Exports (million US$)_4615,0.00037234296312652326
+Agricultural production index (2004-2006=100)_142,0.0003721567485561474
+International trade: Exports (million US$)_33833,0.00037203722176937964
+Energy supply per capita (Gigajoules)_100.0/94.9,0.00037047206808430393
+Refugees and others of concern to UNHCR (in thousands)_312.5,0.0003694811715324037
+International trade: Exports (million US$)_3402,0.0003669410680573733
+Education: Primary gross enrol ratio (f/m per 100 pop)_78.7/81.4,0.0003668698197564211
+International trade: Exports (million US$)_4875,0.00036632975941525847
+Education: Secondary gross enrol ratio (f/m per 100 pop)_93.4/84.3,0.00036550613125892347
+"Pop using improved drinking water (urban/rural, %)_90.8/81.5",0.00036450213942659256
+Education: Secondary gross enrol ratio (f/m per 100 pop)_99.4/100.1,0.0003644324133699798
+Infant mortality rate (per 1000 live births_35.2,0.0003633932179454273
+Refugees and others of concern to UNHCR (in thousands)_3.1,0.00036206978238878794
+International trade: Exports (million US$)_715,0.00035974144949099554
+International migrant stock (000/% of total pop)_23.2/0.8,0.0003582991697712904
+Refugees and others of concern to UNHCR (in thousands)_44.2,0.0003582978558391453
+"Population age distribution (0-14 / 60+ years, %)_24.3/9.7",0.0003567780663901663
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.5/101.1,0.0003567111137231547
+Refugees and others of concern to UNHCR (in thousands)_22.1,0.00035668279269507477
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.1/104.4,0.0003566637207675009
+International migrant stock (000/% of total pop)_23.5/62.6,0.0003565168148575666
+"Population age distribution (0-14 / 60+ years, %)_34.8/6.7",0.00035649980388624
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_21.9/44.8,0.00035509551368317763
+"Population age distribution (0-14 / 60+ years, %)_19.7/4.6",0.0003538619016048527
+"Population age distribution (0-14 / 60+ years, %)_14.7/26.8",0.0003522495604522047
+Threatened species (number)_2.7,0.000352245617836291
+Threatened species (number)_70.5,0.0003521208328879836
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_23.5/20.2,0.0003519707195240501
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_7.1/11.0,0.0003519330569233122
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_79.7/57.7,0.00035125826623337434
+"Population age distribution (0-14 / 60+ years, %)_24.9/15.4",0.0003508974442966953
+International trade: Exports (million US$)_644932,0.0003506165369635583
+Education: Secondary gross enrol ratio (f/m per 100 pop)_30.7/46.8,0.00034999124177528736
+International migrant stock (000/% of total pop)_76.4/0.5,0.0003499653095376911
+Threatened species (number)_39.6,0.0003490858789222633
+Infant mortality rate (per 1000 live births_5.7,0.000348813707494151
+Refugees and others of concern to UNHCR (in thousands)_1201.9,0.00034870437959812157
+Energy supply per capita (Gigajoules)_100.0/93.0,0.0003481607385441912
+International migrant stock (000/% of total pop)_875.2/4.7,0.00034728034417090846
+"Population age distribution (0-14 / 60+ years, %)_25.0/12.0",0.00034632053149304316
+International trade: Exports (million US$)_142606,0.0003457864828889726
+International trade: Exports (million US$)_27341,0.00034576577540883555
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_56.7/45.3,0.0003455297128717715
+Energy supply per capita (Gigajoules)_58.4/57.1,0.00034498985226183833
+Education: Secondary gross enrol ratio (f/m per 100 pop)_38.1/38.8,0.0003443739914609401
+Threatened species (number)_50.6,0.00034382119047149466
+"Population age distribution (0-14 / 60+ years, %)_14.9/22.7",0.00034348522333497175
+International migrant stock (000/% of total pop)_112.4/12.7,0.00034339282235835533
+International migrant stock (000/% of total pop)_363.1/2.1,0.0003426064053108642
+Energy supply per capita (Gigajoules)_97.5/89.4,0.0003425164827141089
+Refugees and others of concern to UNHCR (in thousands)_9.7,0.00034036833530372735
+International migrant stock (000/% of total pop)_771.1/12.3,0.00033995992512929373
+Education: Secondary gross enrol ratio (f/m per 100 pop)_81.8/79.8,0.00033974374236383733
+Refugees and others of concern to UNHCR (in thousands)_4.8,0.0003397129141931252
+"Population age distribution (0-14 / 60+ years, %)_23.9/10.9",0.0003392240900687204
+Agricultural production index (2004-2006=100)_118,0.00033785196468867005
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.8/103.6,0.0003375229285751338
+Refugees and others of concern to UNHCR (in thousands)_2.7,0.00033682664019198637
+Education: Primary gross enrol ratio (f/m per 100 pop)_86.1/89.9,0.0003365952349779729
+Refugees and others of concern to UNHCR (in thousands)_6.0,0.0003363699982579827
+"Pop using improved drinking water (urban/rural, %)_77.9/33.1",0.0003359219254333823
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_13.2/19.1,0.000335047999020556
+International trade: Exports (million US$)_10572,0.00033500444403644706
+"Population age distribution (0-14 / 60+ years, %)_40.4/5.0",0.00033481477418048703
+Energy supply per capita (Gigajoules)_72.5/31.5,0.00033472134513567683
+Energy supply per capita (Gigajoules)_100.0/99.0,0.00033455178703610143
+Infant mortality rate (per 1000 live births_2.4,0.0003337118782291003
+Agricultural production index (2004-2006=100)_104,0.0003335608238873538
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.0/107.0,0.000333272283190426
+International trade: Exports (million US$)_57733,0.00033309556275708615
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_23.3/15.7,0.0003329063317863698
+International migrant stock (000/% of total pop)_189.3/1.0,0.00033289316372652573
+Education: Secondary gross enrol ratio (f/m per 100 pop)_50.5/50.5,0.0003328789635408223
+International migrant stock (000/% of total pop)_56.7/0.5,0.00033164795680025374
+Agricultural production index (2004-2006=100)_99,0.0003315214228425004
+Energy supply per capita (Gigajoules)_99.7/93.3,0.00033128418456087667
+International migrant stock (000/% of total pop)_143.0/1.3,0.0003310576152875305
+Refugees and others of concern to UNHCR (in thousands)_19.9,0.00033092394355069445
+International trade: Exports (million US$)_29992,0.00033078103231848235
+Refugees and others of concern to UNHCR (in thousands)_11.0,0.0003293611620409224
+Threatened species (number)_40.3,0.0003285295612008319
+"Pop using improved drinking water (urban/rural, %)_50.4/6.7",0.0003273462842023139
+Refugees and others of concern to UNHCR (in thousands)_14.4,0.0003271970899216027
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_100.7/75.9,0.00032712466067167994
+Education: Primary gross enrol ratio (f/m per 100 pop)_106.8/107.9,0.0003267395219356069
+"Population age distribution (0-14 / 60+ years, %)_39.9/5.0",0.000326427562965475
+"Population age distribution (0-14 / 60+ years, %)_27.9/11.1",0.00032376600065234614
+International trade: Exports (million US$)_25025,0.00032359929177254855
+"Population age distribution (0-14 / 60+ years, %)_14.4/19.0",0.0003234368777711697
+Infant mortality rate (per 1000 live births_65.4,0.0003226467681943978
+Energy supply per capita (Gigajoules)_93.4/75.5,0.0003199755302585876
+Agricultural production index (2004-2006=100)_157,0.0003195815992018579
+Threatened species (number)_40.6,0.00031907560094103526
+Energy supply per capita (Gigajoules)_93.7/90.3,0.0003187192990418092
+"Pop using improved drinking water (urban/rural, %)_95.2/75.9",0.0003183800737684822
+Threatened species (number)_3.9,0.0003182480977417523
+Threatened species (number)_34.5,0.0003178218694630894
+Education: Primary gross enrol ratio (f/m per 100 pop)_97.3/96.9,0.0003178088211045074
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.3/100.0,0.0003177485023563336
+Threatened species (number)_23.4,0.0003176594013134313
+"Population age distribution (0-14 / 60+ years, %)_29.0/8.4",0.0003170128524340976
+Energy supply per capita (Gigajoules)_97.2/66.7,0.00031674778786393147
+"Population age distribution (0-14 / 60+ years, %)_27.4/11.4",0.0003165796707512579
+International trade: Exports (million US$)_120,0.00031606531630144383
+"Population age distribution (0-14 / 60+ years, %)_20.3/16.0",0.00031576779996532293
+Education: Secondary gross enrol ratio (f/m per 100 pop)_87.1/81.4,0.0003150651296171476
+"Pop using improved drinking water (urban/rural, %)_98.4/98.4",0.0003149865018869262
+"Pop using improved drinking water (urban/rural, %)_88.4/61.4",0.0003146815858781233
+Education: Primary gross enrol ratio (f/m per 100 pop)_107.9/107.4,0.00031408852514697237
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.8/88.0,0.0003137602247655838
+Infant mortality rate (per 1000 live births_13.7,0.00031317151249980654
+Education: Secondary gross enrol ratio (f/m per 100 pop)_32.2/35.1,0.0003125993973778736
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_51.3/41.4,0.0003121226105243499
+"Pop using improved drinking water (urban/rural, %)_82.5/53.2",0.0003121199602067431
+Threatened species (number)_10.4,0.0003120701732353176
+Refugees and others of concern to UNHCR (in thousands)_176.2,0.00031162903971115977
+Infant mortality rate (per 1000 live births_67.3,0.0003096519024932186
+Threatened species (number)_33.4,0.00030948444140158256
+Refugees and others of concern to UNHCR (in thousands)_418.4,0.0003092123397255639
+"Population age distribution (0-14 / 60+ years, %)_16.8/18.5",0.00030912649939898447
+International migrant stock (000/% of total pop)_5.2/0.9,0.00030812889242395804
+Infant mortality rate (per 1000 live births_4.9,0.00030755671576954065
+"Pop using improved drinking water (urban/rural, %)_94.1/95.2",0.0003058069240271512
+Threatened species (number)_10.0,0.000305657221931969
+Energy supply per capita (Gigajoules)_95.0/77.9,0.00030538330468463695
+"Population age distribution (0-14 / 60+ years, %)_15.0/24.1",0.0003038680279540804
+"Population age distribution (0-14 / 60+ years, %)_44.9/4.7",0.0003033996460683044
+"Pop using improved drinking water (urban/rural, %)_28.0/5.9",0.0003030128847427028
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.6/101.3,0.0003028883759251961
+International trade: Exports (million US$)_19731,0.00030209174454865037
+Education: Secondary gross enrol ratio (f/m per 100 pop)_111.1/114.7,0.0003015625570625893
+Infant mortality rate (per 1000 live births_77.7,0.00029895178247268446
+"Population age distribution (0-14 / 60+ years, %)_43.2/4.1",0.00029861729453047053
+Energy supply per capita (Gigajoules)_99.8/98.9,0.00029789898767827017
+Threatened species (number)_40.9,0.0002977707663762622
+International migrant stock (000/% of total pop)_576.9/13.6,0.00029716811702655956
+Agricultural production index (2004-2006=100)_136,0.0002970965567634306
+Agricultural production index (2004-2006=100)_176,0.0002970952941707757
+Agricultural production index (2004-2006=100)_65,0.000297008309087835
+Education: Secondary gross enrol ratio (f/m per 100 pop)_90.3/90.4,0.00029670010053236477
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_47.3/42.5,0.0002965145881275265
+International migrant stock (000/% of total pop)_1072.9/1.1,0.0002963204624342523
+Refugees and others of concern to UNHCR (in thousands)_472.5,0.0002963114174653895
+Refugees and others of concern to UNHCR (in thousands)_3006.3,0.00029522633346028857
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_26.7/27.0,0.0002938803380757145
+Refugees and others of concern to UNHCR (in thousands)_1.9,0.00029377902607676887
+Threatened species (number)_59.2,0.0002935957969107851
+Energy supply per capita (Gigajoules)_98.9/91.2,0.00029354029642171607
+International migrant stock (000/% of total pop)_192.5/9.7,0.0002935036925759932
+Refugees and others of concern to UNHCR (in thousands)_8.1,0.00029337308418388055
+Education: Primary gross enrol ratio (f/m per 100 pop)_86.9/77.6,0.0002933627280207645
+Refugees and others of concern to UNHCR (in thousands)_1.7,0.0002933070122538558
+Infant mortality rate (per 1000 live births_24.8,0.00029317706288594194
+Energy supply per capita (Gigajoules)_96.7/75.6,0.00029286334172413963
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.0/101.8,0.00029255353675984434
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.3/101.0,0.0002924002290596953
+Education: Primary gross enrol ratio (f/m per 100 pop)_53.1/74.9,0.00029212328403754336
+Threatened species (number)_46.9,0.00029169434468945233
+Refugees and others of concern to UNHCR (in thousands)_15.5,0.0002913602388523028
+Education: Secondary gross enrol ratio (f/m per 100 pop)_83.1/92.5,0.0002913234446417827
+International trade: Exports (million US$)_12838,0.00029041817887986933
+"Pop using improved drinking water (urban/rural, %)_96.1/95.9",0.0002903496021192315
+"Population age distribution (0-14 / 60+ years, %)_16.7/21.3",0.0002896478984206714
+International migrant stock (000/% of total pop)_399.5/1.5,0.0002893154991751135
+"Population age distribution (0-14 / 60+ years, %)_40.8/5.5",0.000288939720974419
+Energy supply per capita (Gigajoules)_96.7/86.2,0.0002887148672717828
+"Population age distribution (0-14 / 60+ years, %)_27.6/9.9",0.0002881941648042814
+Education: Secondary gross enrol ratio (f/m per 100 pop)_102.7/98.2,0.0002875761349736988
+Energy supply per capita (Gigajoules)_99.0/100.0,0.000287463873603409
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_11.4/15.4,0.000287383371761156
+International trade: Exports (million US$)_134,0.0002872027448989798
+Infant mortality rate (per 1000 live births_4.1,0.0002859670953374117
+Education: Secondary gross enrol ratio (f/m per 100 pop)_95.1/96.8,0.0002859065383555221
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.7/130.7,0.00028572207152895076
+International trade: Exports (million US$)_13483,0.00028570331621823345
+Agricultural production index (2004-2006=100)_107,0.0002855668437819376
+"Population age distribution (0-14 / 60+ years, %)_17.7/16.2",0.000285341306527683
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_4.6/5.0,0.00028459730400706636
+Infant mortality rate (per 1000 live births_66.5,0.0002845150858547338
+Threatened species (number)_13.0,0.00028444973682065027
+International migrant stock (000/% of total pop)_10185.9/32.3,0.00028415038836271085
+Threatened species (number)_8.1,0.00028357787988420377
+"Population age distribution (0-14 / 60+ years, %)_29.3/10.2",0.00028325041327082135
+"Pop using improved drinking water (urban/rural, %)_93.8/95.5",0.0002828607969068812
+Energy supply per capita (Gigajoules)_99.6/99.0,0.0002825655825524727
+International migrant stock (000/% of total pop)_398.9/2.6,0.0002823850633192648
+Education: Primary gross enrol ratio (f/m per 100 pop)_94.1/100.0,0.00028228646419453223
+Threatened species (number)_53.1,0.00028196604635839193
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_60.9/65.7,0.0002816339549413737
+"Pop using improved drinking water (urban/rural, %)_40.8/23.3",0.00028144158399775755
+Energy supply per capita (Gigajoules)_93.6/68.9,0.00028118878368325824
+Threatened species (number)_19.8,0.0002810809157599006
+Energy supply per capita (Gigajoules)_95.1/95.1,0.00028045620789215217
+Infant mortality rate (per 1000 live births_7.4,0.0002798449409833854
+Education: Secondary gross enrol ratio (f/m per 100 pop)_39.2/49.5,0.0002793548801948546
+Infant mortality rate (per 1000 live births_42.9,0.0002780847170952409
+Threatened species (number)_7.6,0.00027738293073855834
+Threatened species (number)_~0.0,0.00027722465149517016
+Energy supply per capita (Gigajoules)_92.6/84.0,0.00027696599651835216
+Refugees and others of concern to UNHCR (in thousands)_0.2,0.00027674413737063266
+Infant mortality rate (per 1000 live births_3.9,0.0002760721122012348
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_47.8/39.2,0.00027572315317424907
+Threatened species (number)_41.3,0.0002746623915150542
+"Pop using improved drinking water (urban/rural, %)_98.7/100.0",0.00027449041676369887
+International migrant stock (000/% of total pop)_53.9/15.0,0.00027366878167340945
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.5/98.5,0.0002730098128215688
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.4/105.5,0.0002726412561349655
+Infant mortality rate (per 1000 live births_9.0,0.00027252289673445967
+"Pop using improved drinking water (urban/rural, %)_96.2/98.3",0.0002721569171481697
+Refugees and others of concern to UNHCR (in thousands)_0.4,0.00027119817627202085
+Education: Secondary gross enrol ratio (f/m per 100 pop)_17.2/24.2,0.0002711542075901362
+Education: Primary gross enrol ratio (f/m per 100 pop)_89.0/90.5,0.00027063820501683057
+Agricultural production index (2004-2006=100)_163,0.00027028920166348837
+"Pop using improved drinking water (urban/rural, %)_86.2/75.7",0.00027021708214533703
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.4/109.5,0.00027008340820452954
+Agricultural production index (2004-2006=100)_145,0.00026861344727571393
+International trade: Exports (million US$)_140,0.000267807270346763
+Energy supply per capita (Gigajoules)_98.4/86.8,0.0002671361077733654
+International trade: Exports (million US$)_4742,0.0002669359405169641
+Education: Primary gross enrol ratio (f/m per 100 pop)_109.5/113.3,0.000266540909325218
+International migrant stock (000/% of total pop)_8095.1/88.4,0.00026650231216887084
+Agricultural production index (2004-2006=100)_133,0.00026645240435941545
+"Pop using improved drinking water (urban/rural, %)_96.2/96.2",0.00026635603587418127
+International migrant stock (000/% of total pop)_15.4/2.0,0.0002654076835474173
+Threatened species (number)_0.5,0.0002645193863926112
+International trade: Exports (million US$)_2832,0.0002641821708929857
+"Pop using improved drinking water (urban/rural, %)_77.5/49.3",0.0002623931892692096
+Infant mortality rate (per 1000 live births_12.0,0.0002619172072189136
+Education: Primary gross enrol ratio (f/m per 100 pop)_115.1/102.8,0.00026149955687702214
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_60.9/46.6,0.00026140804629806854
+International migrant stock (000/% of total pop)_46.8/8.6,0.00026127198973837485
+International migrant stock (000/% of total pop)_469.4/2.6,0.0002610861229482006
+International migrant stock (000/% of total pop)_619.4/1.6,0.0002610260407944568
+Threatened species (number)_3.0,0.0002608506540559774
+International migrant stock (000/% of total pop)_113.8/2.5,0.00026038117753744716
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.5/106.8,0.00025937851337535367
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.4/99.2,0.00025913500078819754
+International trade: Exports (million US$)_7321,0.00025889547989965206
+International trade: Exports (million US$)_1920,0.00025854348737931174
+Education: Primary gross enrol ratio (f/m per 100 pop)_97.3/102.2,0.0002584083620020429
+"Population age distribution (0-14 / 60+ years, %)_29.4/9.4",0.0002570867638246927
+International trade: Exports (million US$)_365,0.00025685534228127397
+International migrant stock (000/% of total pop)_328.8/0.1,0.00025649510468691054
+International trade: Exports (million US$)_899,0.0002564503290226642
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_41.7/31.7,0.0002563766106602558
+Refugees and others of concern to UNHCR (in thousands)_0.6,0.0002559561381590986
+Energy supply per capita (Gigajoules)_94.2/84.4,0.00025571414564158553
+Education: Secondary gross enrol ratio (f/m per 100 pop)_52.0/50.6,0.000255287806351023
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_43.3/26.2,0.0002549389006493789
+International migrant stock (000/% of total pop)_449.6/4.6,0.00025448127870834403
+"Population age distribution (0-14 / 60+ years, %)_21.1/19.5",0.0002544627577993832
+"Pop using improved drinking water (urban/rural, %)_97.2/82.8",0.0002541971350511192
+"Population age distribution (0-14 / 60+ years, %)_27.4/10.7",0.00025391028119070395
+International migrant stock (000/% of total pop)_168.8/4.2,0.00025389974201629165
+"Population age distribution (0-14 / 60+ years, %)_26.8/9.4",0.0002538110410370966
+"Population age distribution (0-14 / 60+ years, %)_38.5/5.3",0.00025372444245647384
+Energy supply per capita (Gigajoules)_99.8/98.3,0.00025353270888030683
+Threatened species (number)_15.1,0.0002533122776388672
+International trade: Exports (million US$)_2225,0.0002531080489496231
+International migrant stock (000/% of total pop)_142.9/3.5,0.0002530982104077532
+"Pop using improved drinking water (urban/rural, %)_57.5/13.8",0.00025305280074356485
+"Pop using improved drinking water (urban/rural, %)_87.9/82.0",0.0002524574353722082
+Refugees and others of concern to UNHCR (in thousands)_58.2,0.0002523598888218954
+Education: Primary gross enrol ratio (f/m per 100 pop)_109.1/108.8,0.0002519921336936471
+Refugees and others of concern to UNHCR (in thousands)_1392.1,0.00025128733370367363
+International migrant stock (000/% of total pop)_90.9/0.3,0.0002509450659452766
+"Population age distribution (0-14 / 60+ years, %)_19.8/20.8",0.0002508058317558829
+Refugees and others of concern to UNHCR (in thousands)_0.5,0.000250796863261735
+Refugees and others of concern to UNHCR (in thousands)_45.7,0.0002506119868029096
+International migrant stock (000/% of total pop)_7.4/13.4,0.00025020151714623504
+Threatened species (number)_18.7,0.0002497605826819126
+Education: Primary gross enrol ratio (f/m per 100 pop)_109.8/110.2,0.00024964987023202913
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_8.0/9.8,0.000249385197746863
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_46.5/31.2,0.00024937972485534826
+Agricultural production index (2004-2006=100)_101,0.00024922887433334145
+Infant mortality rate (per 1000 live births_22.8,0.00024912134510776543
+Energy supply per capita (Gigajoules)_96.4/89.8,0.00024845009970814825
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.8/103.8,0.0002480574222642659
+International trade: Exports (million US$)_36031,0.0002478181808818847
+Threatened species (number)_10.9,0.0002474341912483233
+Threatened species (number)_53.4,0.00024737419721717127
+Education: Primary gross enrol ratio (f/m per 100 pop)_94.3/94.4,0.00024730986488563465
+Education: Secondary gross enrol ratio (f/m per 100 pop)_110.3/103.4,0.0002472180943614806
+Refugees and others of concern to UNHCR (in thousands)_2739.4,0.00024664419544332474
+Education: Secondary gross enrol ratio (f/m per 100 pop)_133.6/141.3,0.0002466390945462077
+International migrant stock (000/% of total pop)_71.8/2.1,0.00024643920404411585
+Infant mortality rate (per 1000 live births_68.6,0.00024601695089731726
+Threatened species (number)_72.1,0.00024597751962251703
+"Pop using improved drinking water (urban/rural, %)_79.9/71.0",0.0002454276146519142
+Threatened species (number)_40.4,0.0002451358443614148
+Refugees and others of concern to UNHCR (in thousands)_5.0,0.00024506760257580226
+Energy supply per capita (Gigajoules)_66.7/56.9,0.0002449959555029832
+"Population age distribution (0-14 / 60+ years, %)_39.9/4.6",0.00024458521266142093
+"Pop using improved drinking water (urban/rural, %)_95.2/92.3",0.00024455919638743836
+Refugees and others of concern to UNHCR (in thousands)_1644.8,0.0002443579550625941
+International trade: Exports (million US$)_5688,0.00024434979632373356
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_96.7/71.6,0.0002439094086445303
+International trade: Exports (million US$)_23,0.00024383268534665804
+Refugees and others of concern to UNHCR (in thousands)_1513.1,0.00024318322241955855
+International migrant stock (000/% of total pop)_196.2/16.8,0.00024317876165667266
+Refugees and others of concern to UNHCR (in thousands)_274.1,0.00024283346349937213
+International migrant stock (000/% of total pop)_517.0/3.7,0.00024267541004517883
+"Pop using improved drinking water (urban/rural, %)_66.4/42.6",0.000242319664382
+International migrant stock (000/% of total pop)_130.7/6.3,0.00024223747243323497
+Education: Secondary gross enrol ratio (f/m per 100 pop)_34.4/35.9,0.0002418437493875779
+Energy supply per capita (Gigajoules)_99.7/87.9,0.00024173774682661794
+International trade: Exports (million US$)_3747,0.00024160366968886023
+International migrant stock (000/% of total pop)_204.4/3.4,0.00024151063791680256
+International trade: Exports (million US$)_161248,0.0002413397466374799
+Education: Secondary gross enrol ratio (f/m per 100 pop)_63.5/74.4,0.0002413115119541402
+Threatened species (number)_1.6,0.00024126217727555628
+International trade: Exports (million US$)_182329,0.00024092957987081437
+Education: Secondary gross enrol ratio (f/m per 100 pop)_99.8/101.2,0.0002407384735263434
+Education: Primary gross enrol ratio (f/m per 100 pop)_96.7/97.7,0.0002389181026064686
+Energy supply per capita (Gigajoules)_94.7/77.8,0.00023828077236040448
+International trade: Exports (million US$)_27947,0.00023804969055739257
+"Pop using improved drinking water (urban/rural, %)_48.3/30.9",0.00023800753256498973
+"Population age distribution (0-14 / 60+ years, %)_23.8/11.7",0.0002377121030204398
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.3/99.3,0.00023751439558142808
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_16.8/15.8,0.0002374894025333067
+Agricultural production index (2004-2006=100)_114,0.0002369299030277743
+International migrant stock (000/% of total pop)_1199.1/0.7,0.00023674613379088842
+Energy supply per capita (Gigajoules)_95.7/89.1,0.00023665721423620252
+"Pop using improved drinking water (urban/rural, %)_33.6/19.2",0.0002365466139097091
+International migrant stock (000/% of total pop)_39.5/0.4,0.00023623869751067912
+Education: Primary gross enrol ratio (f/m per 100 pop)_60.9/68.6,0.0002359475011332061
+Infant mortality rate (per 1000 live births_8.8,0.00023571477353009868
+Education: Primary gross enrol ratio (f/m per 100 pop)_111.7/106.3,0.00023565540562265892
+"Population age distribution (0-14 / 60+ years, %)_42.8/4.3",0.00023565009927361546
+Infant mortality rate (per 1000 live births_45.8,0.0002356281252179
+"Pop using improved drinking water (urban/rural, %)_87.0/80.7",0.00023546474130954235
+Agricultural production index (2004-2006=100)_160,0.00023488910952966852
+Agricultural production index (2004-2006=100)_85,0.00023466365657644715
+Threatened species (number)_51.4,0.00023454840331970202
+International trade: Exports (million US$)_144490,0.00023444368119358833
+"Pop using improved drinking water (urban/rural, %)_94.4/69.7",0.00023442184281511675
+Refugees and others of concern to UNHCR (in thousands)_94.7,0.00023421380209909457
+"Population age distribution (0-14 / 60+ years, %)_29.3/9.4",0.00023379615065071487
+International trade: Exports (million US$)_4039,0.00023357432876073726
+"Population age distribution (0-14 / 60+ years, %)_41.8/4.9",0.00023325440482412744
+Infant mortality rate (per 1000 live births_17.0,0.00023323963340980664
+International trade: Exports (million US$)_517,0.00023317998756074637
+Education: Secondary gross enrol ratio (f/m per 100 pop)_125.3/132.6,0.00023306598719325376
+Threatened species (number)_74.1,0.00023257267140091488
+Refugees and others of concern to UNHCR (in thousands)_4.2,0.00023242646905568282
+Agricultural production index (2004-2006=100)_89,0.00023220737267424873
+International trade: Exports (million US$)_929,0.00023217717397918257
+"Pop using improved drinking water (urban/rural, %)_92.5/34.1",0.00023190626596883803
+Education: Secondary gross enrol ratio (f/m per 100 pop)_74.5/73.5,0.00023180248584085613
+Energy supply per capita (Gigajoules)_80.8/57.3,0.00023155439476701164
+Infant mortality rate (per 1000 live births_33.2,0.00023107580162521658
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_80.2/104.8,0.00023103350070903216
+International migrant stock (000/% of total pop)_4.6/4.2,0.0002309077012088399
+Education: Secondary gross enrol ratio (f/m per 100 pop)_31.1/33.8,0.00023071726612203282
+International trade: Exports (million US$)_1797,0.00023038471517034271
+Education: Primary gross enrol ratio (f/m per 100 pop)_88.3/96.6,0.00023035691584077038
+Education: Primary gross enrol ratio (f/m per 100 pop)_112.2/117.7,0.00023034637679110706
+International trade: Exports (million US$)_14852,0.00023002619278788606
+"Pop using improved drinking water (urban/rural, %)_18.0/8.7",0.000228968011482519
+International trade: Exports (million US$)_570,0.00022862981683364876
+Education: Secondary gross enrol ratio (f/m per 100 pop)_84.8/85.5,0.00022831161810487916
+"Pop using improved drinking water (urban/rural, %)_97.5/98.5",0.00022789105053882598
+Education: Primary gross enrol ratio (f/m per 100 pop)_108.7/107.3,0.00022772997451941176
+"Pop using improved drinking water (urban/rural, %)_98.0/98.0",0.00022758217188799035
+"Pop using improved drinking water (urban/rural, %)_98.0/92.2",0.00022756038613003896
+Agricultural production index (2004-2006=100)_103,0.0002274416858339441
+"Population age distribution (0-14 / 60+ years, %)_17.6/21.1",0.00022738592841716517
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_25.7/22.9,0.00022737722117137995
+Infant mortality rate (per 1000 live births_28.1,0.00022729467495017985
+International migrant stock (000/% of total pop)_211.9/0.2,0.0002272886968909743
+International trade: Exports (million US$)_260327,0.00022708801064045194
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_45.7/39.5,0.00022708777719189315
+International trade: Exports (million US$)_1990,0.0002264973787817081
+Agricultural production index (2004-2006=100)_116,0.00022625572192040138
+Refugees and others of concern to UNHCR (in thousands)_3619.6,0.0002260860070386603
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_97.9/84.5,0.00022584721935258917
+International trade: Exports (million US$)_16,0.00022583787320267502
+Infant mortality rate (per 1000 live births_2.9,0.0002257953789211295
+Infant mortality rate (per 1000 live births_18.5,0.00022573633106703287
+International migrant stock (000/% of total pop)_824.1/6.7,0.00022556488526521024
+"Pop using improved drinking water (urban/rural, %)_98.0/98.3",0.00022549007218307428
+Refugees and others of concern to UNHCR (in thousands)_2.9,0.00022472430292960906
+"Population age distribution (0-14 / 60+ years, %)_31.8/7.6",0.00022467946032925085
+Energy supply per capita (Gigajoules)_98.9/93.6,0.00022419129068625222
+Education: Secondary gross enrol ratio (f/m per 100 pop)_96.3/95.9,0.00022396087547183887
+Education: Secondary gross enrol ratio (f/m per 100 pop)_119.9/113.4,0.00022392295164902156
+Region_Eastern Asia,0.0002237821953946182
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_30.5/27.7,0.00022364734030752822
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.2/105.8,0.00022312203319589267
+"Population age distribution (0-14 / 60+ years, %)_27.8/9.4",0.00022304058458135593
+Refugees and others of concern to UNHCR (in thousands)_24.0,0.00022287066225714012
+International trade: Exports (million US$)_176632,0.00022254165516968853
+Infant mortality rate (per 1000 live births_10.9,0.0002224292555580202
+Agricultural production index (2004-2006=100)_127,0.00022211919668000887
+"Pop using improved drinking water (urban/rural, %)_97.2/82.6",0.00022189454250704177
+Education: Secondary gross enrol ratio (f/m per 100 pop)_61.1/63.1,0.0002212637014985752
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.0/100.0,0.00022109273693730894
+International migrant stock (000/% of total pop)_1327.3/2.6,0.00022075802360701363
+International migrant stock (000/% of total pop)_13.3/0.1,0.00022042959650458505
+Threatened species (number)_52.4,0.00022004455786064515
+"Pop using improved drinking water (urban/rural, %)_81.6/54.3",0.0002198828999944199
+Education: Primary gross enrol ratio (f/m per 100 pop)_94.9/100.1,0.00021984716202703506
+Education: Secondary gross enrol ratio (f/m per 100 pop)_94.2/90.0,0.00021953297505157378
+Energy supply per capita (Gigajoules)_100.0/69.1,0.00021930912312938524
+Threatened species (number)_13.4,0.00021912299798493173
+Refugees and others of concern to UNHCR (in thousands)_1168.4,0.00021892954289460157
+International trade: Exports (million US$)_13204,0.0002176554678680943
+Education: Primary gross enrol ratio (f/m per 100 pop)_147.0/144.0,0.00021764771402399391
+Infant mortality rate (per 1000 live births_46.9,0.00021757803771468452
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_25.4/18.8,0.00021732648119998936
+Refugees and others of concern to UNHCR (in thousands)_721.4,0.00021671421050273087
+"Pop using improved drinking water (urban/rural, %)_43.4/31.5",0.00021646482335183106
+"Population age distribution (0-14 / 60+ years, %)_41.8/5.3",0.00021635776648724545
+International trade: Exports (million US$)_2851,0.00021577498059634884
+International migrant stock (000/% of total pop)_46627.1/14.5,0.00021563411219787212
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_69.4/51.1,0.000215510494517624
+Energy supply per capita (Gigajoules)_98.8/60.3,0.00021514140559149262
+International trade: Exports (million US$)_9143,0.00021404525806999184
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_82.9/65.4,0.00021375161342508837
+"Population age distribution (0-14 / 60+ years, %)_35.9/6.1",0.00021368214422528734
+International trade: Exports (million US$)_4576,0.000213331740194327
+Education: Primary gross enrol ratio (f/m per 100 pop)_89.1/98.5,0.0002126661625055149
+Education: Primary gross enrol ratio (f/m per 100 pop)_78.2/80.0,0.00021255802389642597
+Agricultural production index (2004-2006=100)_132,0.00021225351995316394
+International migrant stock (000/% of total pop)_25.8/0.3,0.00021174239248739337
+International trade: Exports (million US$)_20534,0.00021171534899006435
+Threatened species (number)_1.2,0.00021142302042799886
+Education: Secondary gross enrol ratio (f/m per 100 pop)_30.8/33.7,0.00021133524544668841
+International migrant stock (000/% of total pop)_2.4/1.3,0.00021108572961435465
+Threatened species (number)_29.5,0.00021102459058231895
+Agricultural production index (2004-2006=100)_125,0.00021094659021719965
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.1/103.8,0.00021075821750122422
+International trade: Exports (million US$)_648,0.00021062925336932914
+Education: Secondary gross enrol ratio (f/m per 100 pop)_113.5/110.6,0.00021051057058482363
+Energy supply per capita (Gigajoules)_97.0/67.3,0.00021033875206744512
+International migrant stock (000/% of total pop)_1084.4/2.4,0.00021031645574523305
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_27.5/23.6,0.00021006916422753653
+"Pop using improved drinking water (urban/rural, %)_92.2/63.3",0.0002099756465145977
+Education: Secondary gross enrol ratio (f/m per 100 pop)_95.6/93.2,0.00020985792096440457
+International trade: Exports (million US$)_373883,0.0002095722852150308
+Threatened species (number)_13.5,0.00020950776325779627
+"Population age distribution (0-14 / 60+ years, %)_36.7/5.5",0.00020921114086397787
+Energy supply per capita (Gigajoules)_97.7/88.6,0.0002088875916166881
+Education: Primary gross enrol ratio (f/m per 100 pop)_102.1/102.8,0.00020866021446200493
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_79.2/55.5,0.00020850352963517138
+Energy supply per capita (Gigajoules)_96.8/73.8,0.00020848180986802052
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_3.7/13.3,0.00020847013245194068
+"Pop using improved drinking water (urban/rural, %)_69.6/60.5",0.00020829380428096414
+"Pop using improved drinking water (urban/rural, %)_47.3/39.8",0.00020814807625585839
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_0.9/2.6,0.00020800955813835652
+Refugees and others of concern to UNHCR (in thousands)_41.1,0.00020761455008817868
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_47.4/35.3,0.00020707204622186036
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_3.8/7.3,0.00020630350632142396
+"Population age distribution (0-14 / 60+ years, %)_31.6/7.0",0.00020622660220706912
+International migrant stock (000/% of total pop)_106.8/0.4,0.00020619494327463842
+Infant mortality rate (per 1000 live births_36.5,0.00020614736342796855
+International migrant stock (000/% of total pop)_245.4/2.3,0.00020595094450265764
+International trade: Exports (million US$)_36775,0.00020513373891045951
+Education: Secondary gross enrol ratio (f/m per 100 pop)_90.9/71.7,0.0002049593686707851
+"Population age distribution (0-14 / 60+ years, %)_31.6/9.5",0.00020452521348249657
+Refugees and others of concern to UNHCR (in thousands)_1.4,0.00020429004315629102
+"Population age distribution (0-14 / 60+ years, %)_29.0/8.6",0.00020416012276028704
+Infant mortality rate (per 1000 live births_65.7,0.0002041095080600006
+International trade: Exports (million US$)_1265,0.00020408925460000077
+"Population age distribution (0-14 / 60+ years, %)_22.7/13.6",0.00020402644964447533
+"Pop using improved drinking water (urban/rural, %)_93.9/92.6",0.00020372410170800252
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.9/99.6,0.00020366288675383937
+International trade: Exports (million US$)_57326,0.00020366195026141318
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_47.3/39.9,0.00020344163252417446
+Education: Secondary gross enrol ratio (f/m per 100 pop)_89.0/88.1,0.00020338387536125195
+"Pop using improved drinking water (urban/rural, %)_87.8/67.1",0.00020323364335911434
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_59.3/42.4,0.00020308248375465799
+International migrant stock (000/% of total pop)_3629.0/1.9,0.00020243365451380645
+Education: Primary gross enrol ratio (f/m per 100 pop)_96.8/90.1,0.00020189623306619272
+Education: Secondary gross enrol ratio (f/m per 100 pop)_121.0/116.3,0.00020185891084114683
+Education: Primary gross enrol ratio (f/m per 100 pop)_92.8/94.5,0.00020184023286675366
+"Pop using improved drinking water (urban/rural, %)_94.5/56.0",0.0002012254700127712
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_94.4/83.0,0.00020119262699397236
+Infant mortality rate (per 1000 live births_6.2,0.0002009499826937887
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_88.4/76.5,0.000200788119642257
+Infant mortality rate (per 1000 live births_39.4,0.00020058088558585853
+"Pop using improved drinking water (urban/rural, %)_79.9/84.1",0.0002005191577867029
+"Population age distribution (0-14 / 60+ years, %)_23.0/8.0",0.00020003688611311348
+Refugees and others of concern to UNHCR (in thousands)_256.5,0.00019991239088065118
+"Population age distribution (0-14 / 60+ years, %)_15.3/24.9",0.00019979192074254668
+Education: Secondary gross enrol ratio (f/m per 100 pop)_77.0/64.8,0.00019966331781100772
+International trade: Exports (million US$)_24455,0.00019934573681303907
+Threatened species (number)_30.7,0.0001992334409653152
+"Pop using improved drinking water (urban/rural, %)_88.1/96.7",0.00019922540183297947
+Infant mortality rate (per 1000 live births_16.5,0.00019888855448662996
+International migrant stock (000/% of total pop)_202.3/15.4,0.00019880502243179249
+Threatened species (number)_34.8,0.00019865002613494634
+International migrant stock (000/% of total pop)_2011.7/24.9,0.0001986294824214964
+Education: Secondary gross enrol ratio (f/m per 100 pop)_63.3/67.9,0.00019834470980662774
+Education: Primary gross enrol ratio (f/m per 100 pop)_111.6/117.7,0.00019833228153256992
+Agricultural production index (2004-2006=100)_139,0.00019825208615674282
+International migrant stock (000/% of total pop)_42.0/0.7,0.00019813788482418972
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.0/92.5,0.0001979668355012262
+"Pop using improved drinking water (urban/rural, %)_27.2/28.2",0.0001978789996177216
+Education: Secondary gross enrol ratio (f/m per 100 pop)_88.9/89.4,0.00019772960468412233
+Threatened species (number)_37.2,0.00019771654704669472
+International trade: Exports (million US$)_22507,0.0001975319621100499
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.8/106.5,0.00019694718733512088
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_106.3/75.4,0.00019687587992726173
+"Pop using improved drinking water (urban/rural, %)_99.8/100.0",0.00019572647907345882
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_107.2/52.6,0.00019478657760220626
+International trade: Exports (million US$)_30,0.00019477439856126517
+Infant mortality rate (per 1000 live births_93.5,0.000194721574407797
+Threatened species (number)_32.0,0.00019469521636572448
+International trade: Exports (million US$)_3352,0.00019468313805706883
+International trade: Exports (million US$)_100,0.0001939731741589259
+Agricultural production index (2004-2006=100)_144,0.0001936440429573117
+International migrant stock (000/% of total pop)_441.5/3.8,0.00019350862256828195
+International trade: Exports (million US$)_1724,0.00019315430684147753
+International migrant stock (000/% of total pop)_31.6/2.5,0.00019258410438091056
+"Pop using improved drinking water (urban/rural, %)_97.3/94.7",0.00019254203881372686
+Infant mortality rate (per 1000 live births_3.0,0.0001923407178407706
+Education: Primary gross enrol ratio (f/m per 100 pop)_97.6/97.1,0.00019231338792159833
+"Population age distribution (0-14 / 60+ years, %)_27.4/10.4",0.00019204425564050393
+International migrant stock (000/% of total pop)_5241.0/0.4,0.0001920041942448855
+International migrant stock (000/% of total pop)_38.7/0.2,0.00019192987396434176
+"Pop using improved drinking water (urban/rural, %)_45.1/27.0",0.0001919024047843228
+Infant mortality rate (per 1000 live births_70.0,0.00019180015070720285
+"Population age distribution (0-14 / 60+ years, %)_14.4/26.1",0.00019165355959500834
+Energy supply per capita (Gigajoules)_80.6/37.0,0.00019138645259026346
+Refugees and others of concern to UNHCR (in thousands)_17.6,0.00019115070757684226
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_46.8/37.5,0.00019095267178032132
+Threatened species (number)_56.3,0.00019008856034095513
+Energy supply per capita (Gigajoules)_97.4/83.8,0.00018952307297035836
+Infant mortality rate (per 1000 live births_18.6,0.000189386167640674
+Energy supply per capita (Gigajoules)_94.2/79.5,0.00018908427410609972
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.1/100.8,0.00018901935042782967
+"Pop using improved drinking water (urban/rural, %)_88.6/22.5",0.0001890110104291369
+Education: Primary gross enrol ratio (f/m per 100 pop)_72.1/79.3,0.00018899763716005594
+International trade: Exports (million US$)_129315,0.00018896656479872712
+Threatened species (number)_28.2,0.0001888123555855931
+"Pop using improved drinking water (urban/rural, %)_31.2/29.7",0.00018796448238772952
+Education: Secondary gross enrol ratio (f/m per 100 pop)_22.7/35.1,0.00018777725226720658
+"Pop using improved drinking water (urban/rural, %)_63.1/56.0",0.00018767424191890616
+Infant mortality rate (per 1000 live births_67.7,0.00018764417162007578
+Infant mortality rate (per 1000 live births_36.4,0.00018752386166253162
+Infant mortality rate (per 1000 live births_31.3,0.00018750982144550944
+International migrant stock (000/% of total pop)_22.2/0.3,0.0001872048676144112
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_28.9/28.8,0.0001866444813817009
+International migrant stock (000/% of total pop)_249.3/44.0,0.00018648352517230417
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.6/82.0,0.00018641075376062005
+Infant mortality rate (per 1000 live births_9.8,0.00018608670646600087
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_88.3/101.0,0.00018606218439223992
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_84.8/55.4,0.00018587502843954096
+Refugees and others of concern to UNHCR (in thousands)_8.8,0.0001858226595007332
+International migrant stock (000/% of total pop)_978.0/0.1,0.00018577945958147516
+Refugees and others of concern to UNHCR (in thousands)_99.8,0.00018532104362650056
+"Population age distribution (0-14 / 60+ years, %)_44.8/4.8",0.00018504532744827604
+Education: Secondary gross enrol ratio (f/m per 100 pop)_81.7/74.1,0.00018479691159224674
+International trade: Exports (million US$)_7221,0.0001845176767652454
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_46.9/41.6,0.00018418240248659735
+Agricultural production index (2004-2006=100)_109,0.00018415151025782972
+Agricultural production index (2004-2006=100)_148,0.00018411306683347874
+"Population age distribution (0-14 / 60+ years, %)_19.2/20.8",0.00018395612263557011
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.5/94.8,0.00018376840055653313
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.2/106.1,0.00018362226843605237
+International migrant stock (000/% of total pop)_405.1/3.8,0.00018353886945004537
+Infant mortality rate (per 1000 live births_29.9,0.00018349626154396095
+International trade: Exports (million US$)_6964,0.0001833279957231527
+Energy supply per capita (Gigajoules)_98.9/100.0,0.00018288207532267587
+Education: Secondary gross enrol ratio (f/m per 100 pop)_29.5/31.7,0.0001825884787194173
+Threatened species (number)_61.5,0.00018248838344838672
+Energy supply per capita (Gigajoules)_97.5/75.8,0.00018242271533404553
+International trade: Exports (million US$)_1881,0.00018241432477868053
+International migrant stock (000/% of total pop)_353.9/1.0,0.00018200756972743947
+Infant mortality rate (per 1000 live births_40.8,0.00018139428914864118
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_43.0/30.1,0.00018134702809046666
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_103.1/60.2,0.00018038442000590404
+International trade: Exports (million US$)_56313,0.00018027934392798157
+"Population age distribution (0-14 / 60+ years, %)_45.0/4.4",0.00018013829207816565
+Energy supply per capita (Gigajoules)_93.1/66.7,0.00017987677840606038
+International trade: Exports (million US$)_2389,0.00017976672596680326
+"Population age distribution (0-14 / 60+ years, %)_14.2/26.5",0.00017917893038028637
+Threatened species (number)_62.3,0.00017902544973639082
+Threatened species (number)_1.9,0.0001786554066873534
+Education: Primary gross enrol ratio (f/m per 100 pop)_83.4/81.7,0.00017858142064160182
+"Pop using improved drinking water (urban/rural, %)_37.9/4.6",0.0001785391628815772
+"Pop using improved drinking water (urban/rural, %)_77.9/70.8",0.00017836029797702125
+Education: Secondary gross enrol ratio (f/m per 100 pop)_114.7/115.6,0.00017784374912342932
+Refugees and others of concern to UNHCR (in thousands)_8.0,0.00017772567828709985
+Education: Secondary gross enrol ratio (f/m per 100 pop)_119.1/119.9,0.00017771329768952803
+International migrant stock (000/% of total pop)_3546.8/20.1,0.00017743874391746485
+Education: Secondary gross enrol ratio (f/m per 100 pop)_49.1/50.2,0.0001773367529404544
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_4.2/5.4,0.000177291564421731
+Threatened species (number)_46.5,0.0001772024897738674
+Agricultural production index (2004-2006=100)_141,0.0001768194693590653
+Infant mortality rate (per 1000 live births_8.2,0.0001767146720912166
+Energy supply per capita (Gigajoules)_93.9/89.9,0.00017669743558266382
+Energy supply per capita (Gigajoules)_95.7/...,0.00017632479739120336
+Threatened species (number)_10.6,0.00017613716436677384
+"Pop using improved drinking water (urban/rural, %)_34.1/11.8",0.0001760406979155252
+Education: Secondary gross enrol ratio (f/m per 100 pop)_22.1/24.3,0.00017600313623885203
+"Pop using improved drinking water (urban/rural, %)_95.5/78.4",0.00017593737828853643
+Education: Secondary gross enrol ratio (f/m per 100 pop)_106.4/107.8,0.00017586325599446847
+Education: Secondary gross enrol ratio (f/m per 100 pop)_39.5/57.4,0.00017581792075630542
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.0/100.3,0.00017573937850561515
+International trade: Exports (million US$)_1202,0.00017567367702989726
+"Population age distribution (0-14 / 60+ years, %)_33.5/7.9",0.0001754820662986658
+Education: Secondary gross enrol ratio (f/m per 100 pop)_6.6/12.3,0.00017543813929582185
+Education: Secondary gross enrol ratio (f/m per 100 pop)_97.4/96.0,0.00017511714525470228
+Threatened species (number)_4.0,0.00017466341923453414
+"Population age distribution (0-14 / 60+ years, %)_16.5/25.3",0.00017453316729456182
+International trade: Exports (million US$)_7443,0.00017446112690539024
+Education: Secondary gross enrol ratio (f/m per 100 pop)_84.5/78.8,0.00017410333230802184
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.4/156.9,0.0001736906185047783
+Refugees and others of concern to UNHCR (in thousands)_5.9,0.00017332929632299195
+Education: Secondary gross enrol ratio (f/m per 100 pop)_98.1/91.7,0.00017318387945781545
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.8/101.6,0.0001728627976613484
+Refugees and others of concern to UNHCR (in thousands)_28.8,0.00017251720562702446
+"Population age distribution (0-14 / 60+ years, %)_28.0/7.6",0.0001723941514172948
+Energy supply per capita (Gigajoules)_64.9/47.6,0.000172384819805614
+Refugees and others of concern to UNHCR (in thousands)_30.7,0.00017232680029891374
+Infant mortality rate (per 1000 live births_80.4,0.00017199320281021752
+Agricultural production index (2004-2006=100)_91,0.0001716510513778027
+Threatened species (number)_25.9,0.00017155609530684852
+"Pop using improved drinking water (urban/rural, %)_97.5/96.7",0.0001713648372153657
+Education: Primary gross enrol ratio (f/m per 100 pop)_139.9/144.0,0.0001712111345381618
+"Population age distribution (0-14 / 60+ years, %)_33.0/7.3",0.0001710575632715485
+International trade: Exports (million US$)_45627,0.00017072138342512477
+International migrant stock (000/% of total pop)_13.8/1.5,0.00017055040769496638
+Agricultural production index (2004-2006=100)_84,0.00017054039567314004
+International migrant stock (000/% of total pop)_215.2/1.2,0.00017023460120770041
+International migrant stock (000/% of total pop)_518.3/1.8,0.00016976996204230545
+Refugees and others of concern to UNHCR (in thousands)_6.4,0.0001695826695127753
+Education: Secondary gross enrol ratio (f/m per 100 pop)_43.5/52.9,0.00016951537906685513
+Refugees and others of concern to UNHCR (in thousands)_27.3,0.0001693435328129073
+Refugees and others of concern to UNHCR (in thousands)_2.5,0.0001691371688169297
+Infant mortality rate (per 1000 live births_15.8,0.00016813265606314566
+International trade: Exports (million US$)_1453,0.00016781672925638715
+Threatened species (number)_19.0,0.0001674930009590889
+Education: Secondary gross enrol ratio (f/m per 100 pop)_79.1/74.2,0.00016718606552949472
+Education: Secondary gross enrol ratio (f/m per 100 pop)_40.5/44.5,0.00016717131837444012
+International trade: Exports (million US$)_16798,0.0001670028864701855
+Agricultural production index (2004-2006=100)_199,0.00016678211997947826
+Infant mortality rate (per 1000 live births_36.8,0.0001664812684754085
+"Pop using improved drinking water (urban/rural, %)_77.0/58.7",0.00016634520831167537
+Infant mortality rate (per 1000 live births_12.6,0.00016624739741184305
+Infant mortality rate (per 1000 live births_59.0,0.00016606855632649673
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_11.7/8.0,0.0001658800854635923
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_47.0/41.3,0.00016583570757937888
+"Population age distribution (0-14 / 60+ years, %)_23.1/12.0",0.00016549307967166004
+"Population age distribution (0-14 / 60+ years, %)_18.4/16.6",0.0001652275572572796
+"Population age distribution (0-14 / 60+ years, %)_29.7/6.6",0.00016516183168744966
+Infant mortality rate (per 1000 live births_4.7,0.0001650014357924161
+Education: Primary gross enrol ratio (f/m per 100 pop)_106.8/111.4,0.00016490305726165653
+Infant mortality rate (per 1000 live births_55.3,0.000164089826951731
+Infant mortality rate (per 1000 live births_25.1,0.0001640465617931468
+International migrant stock (000/% of total pop)_268.4/15.6,0.00016392025928956832
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_8.3/11.8,0.00016391091238779915
+Energy supply per capita (Gigajoules)_98.5/95.0,0.00016387188954500062
+International migrant stock (000/% of total pop)_344.1/1.3,0.000163327085124391
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_31.8/20.8,0.00016326373778115046
+Education: Primary gross enrol ratio (f/m per 100 pop)_92.8/93.6,0.00016288741381825935
+Energy supply per capita (Gigajoules)_99.6/99.7,0.0001628035312449024
+International migrant stock (000/% of total pop)_1039.7/23.0,0.00016271651813429746
+Threatened species (number)_26.0,0.00016267837397686874
+Education: Secondary gross enrol ratio (f/m per 100 pop)_109.2/105.3,0.00016258669554929277
+Threatened species (number)_57.9,0.00016255908241224817
+Threatened species (number)_43.1,0.00016200631064480049
+"Population age distribution (0-14 / 60+ years, %)_24.0/14.9",0.0001619246778731531
+International trade: Exports (million US$)_104084,0.00016190169681959694
+"Population age distribution (0-14 / 60+ years, %)_19.0/21.0",0.00016169196726979667
+Agricultural production index (2004-2006=100)_86,0.00016088159919862635
+International trade: Exports (million US$)_23414,0.0001608147414317023
+"Pop using improved drinking water (urban/rural, %)_56.0/43.5",0.00016070696453265014
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_55.2/40.3,0.00016045346392585798
+Infant mortality rate (per 1000 live births_64.8,0.00015993070857768703
+International trade: Exports (million US$)_926,0.00015953159610707573
+"Pop using improved drinking water (urban/rural, %)_92.0/92.0",0.00015915343127174232
+Infant mortality rate (per 1000 live births_10.2,0.0001590790836535785
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_85.4/65.0,0.00015879049754319836
+International migrant stock (000/% of total pop)_415.6/3.9,0.00015842518431952437
+Education: Secondary gross enrol ratio (f/m per 100 pop)_100.6/95.9,0.00015797730428425354
+Threatened species (number)_31.0,0.00015796077791191572
+"Pop using improved drinking water (urban/rural, %)_42.4/10.1",0.0001578494274044907
+Infant mortality rate (per 1000 live births_59.8,0.0001576536109904884
+Refugees and others of concern to UNHCR (in thousands)_1054.2,0.0001575720969027793
+"Pop using improved drinking water (urban/rural, %)_89.8/82.2",0.00015725594932465683
+Refugees and others of concern to UNHCR (in thousands)_133.1,0.00015678660737910937
+International trade: Exports (million US$)_13952,0.00015639296354717655
+Threatened species (number)_47.2,0.00015611058166072183
+Education: Primary gross enrol ratio (f/m per 100 pop)_82.9/80.5,0.0001557777001708513
+Infant mortality rate (per 1000 live births_32.1,0.0001556869857643526
+Education: Secondary gross enrol ratio (f/m per 100 pop)_78.2/80.3,0.00015558388948450059
+International migrant stock (000/% of total pop)_704.7/3.9,0.00015554624077540756
+"Population age distribution (0-14 / 60+ years, %)_13.5/29.4",0.00015552041306578926
+Threatened species (number)_35.1,0.00015550217956730435
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_69.9/50.5,0.00015549481535845295
+"Pop using improved drinking water (urban/rural, %)_97.8/98.6",0.0001554538660157768
+Threatened species (number)_22.3,0.00015541183590266267
+Refugees and others of concern to UNHCR (in thousands)_745.7,0.00015509067728140425
+Energy supply per capita (Gigajoules)_99.7/99.7,0.00015449923031213828
+Agricultural production index (2004-2006=100)_113,0.00015445687402050883
+International migrant stock (000/% of total pop)_2514.2/8.3,0.00015432527415139567
+Education: Secondary gross enrol ratio (f/m per 100 pop)_53.5/62.6,0.00015423098138321945
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.3/107.6,0.00015387464263010681
+International migrant stock (000/% of total pop)_28.1/30.6,0.00015366702375351214
+Refugees and others of concern to UNHCR (in thousands)_69.0,0.00015366621660868553
+"Population age distribution (0-14 / 60+ years, %)_23.3/10.1",0.0001535405100126362
+"Pop using improved drinking water (urban/rural, %)_52.0/6.3",0.00015319302255156972
+International trade: Exports (million US$)_2066,0.0001531750720859454
+Energy supply per capita (Gigajoules)_100.0/93.2,0.00015310465711880942
+International trade: Exports (million US$)_11673,0.00015276379627126278
+Infant mortality rate (per 1000 live births_2.2,0.00015265241925744154
+Education: Primary gross enrol ratio (f/m per 100 pop)_106.9/112.8,0.00015257755942966181
+"Pop using improved drinking water (urban/rural, %)_98.0/95.2",0.00015255311819655689
+Energy supply per capita (Gigajoules)_98.1/88.4,0.00015229534617168235
+"Population age distribution (0-14 / 60+ years, %)_35.5/5.7",0.00015181146491006982
+Refugees and others of concern to UNHCR (in thousands)_238.6,0.00015173749538933314
+Region_NorthernAmerica,0.00015173052648848412
+Threatened species (number)_80.5,0.00015170776302963075
+Energy supply per capita (Gigajoules)_98.2/84.6,0.00015146221653147775
+International trade: Exports (million US$)_13648,0.00015078008871889146
+Threatened species (number)_58.1,0.00015069833185491863
+"Population age distribution (0-14 / 60+ years, %)_20.1/20.1",0.00015049898962780765
+Threatened species (number)_31.1,0.00015035754861914962
+Infant mortality rate (per 1000 live births_21.1,0.00015030572675818815
+Refugees and others of concern to UNHCR (in thousands)_3.2,0.00015005834362412146
+"Population age distribution (0-14 / 60+ years, %)_18.1/25.7",0.0001497550541558255
+Agricultural production index (2004-2006=100)_143,0.0001495704634030758
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_20.3/12.4,0.00014942041186745094
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.6/102.7,0.00014926680129885323
+International migrant stock (000/% of total pop)_10.8/1.3,0.00014925500246565682
+Infant mortality rate (per 1000 live births_31.4,0.00014892337075957972
+"Population age distribution (0-14 / 60+ years, %)_42.3/5.2",0.0001488274237877032
+Infant mortality rate (per 1000 live births_13.2,0.0001484676399561914
+International trade: Exports (million US$)_1458,0.0001479717799544311
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_4.1/9.6,0.00014785744770003377
+Education: Primary gross enrol ratio (f/m per 100 pop)_108.4/109.3,0.00014783482801667796
+"Pop using improved drinking water (urban/rural, %)_62.6/28.5",0.0001477107246285094
+Threatened species (number)_60.1,0.00014750894354358847
+International trade: Exports (million US$)_7509,0.00014732864614713583
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_57.3/40.5,0.00014722332265123503
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_113.7/114.0,0.00014720245665828506
+Threatened species (number)_1.0,0.0001471639864904905
+Agricultural production index (2004-2006=100)_90,0.00014703258633700427
+International migrant stock (000/% of total pop)_1422.8/0.9,0.00014691377178879236
+Infant mortality rate (per 1000 live births_32.8,0.00014680907448405908
+Threatened species (number)_73.1,0.0001467937810420022
+"Pop using improved drinking water (urban/rural, %)_100.0/...",0.00014662951000779344
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_6.1/13.7,0.00014648588804975213
+Education: Secondary gross enrol ratio (f/m per 100 pop)_129.6/130.0,0.00014643960100895124
+Education: Primary gross enrol ratio (f/m per 100 pop)_83.9/86.9,0.0001464061509127196
+Infant mortality rate (per 1000 live births_49.8,0.00014636116298205335
+Education: Primary gross enrol ratio (f/m per 100 pop)_88.0/114.6,0.00014594912211514082
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_11.8/14.3,0.000145930250016534
+Education: Primary gross enrol ratio (f/m per 100 pop)_66.8/77.9,0.0001459249534417217
+Refugees and others of concern to UNHCR (in thousands)_70.2,0.00014576605028352328
+Refugees and others of concern to UNHCR (in thousands)_25.7,0.00014566983177531122
+Education: Secondary gross enrol ratio (f/m per 100 pop)_95.9/93.5,0.0001456201732591352
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_8.2/10.4,0.0001453731631494524
+"Population age distribution (0-14 / 60+ years, %)_28.5/9.9",0.0001451671138883533
+Threatened species (number)_8.5,0.0001449098744933996
+Infant mortality rate (per 1000 live births_2.5,0.00014489496647529458
+"Population age distribution (0-14 / 60+ years, %)_41.7/5.1",0.0001445710446481214
+"Population age distribution (0-14 / 60+ years, %)_13.5/20.1",0.00014374355567943784
+"Population age distribution (0-14 / 60+ years, %)_21.8/4.0",0.00014345634601940885
+Education: Secondary gross enrol ratio (f/m per 100 pop)_41.0/45.8,0.00014275633459903366
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.7/100.5,0.0001421582559670243
+"Pop using improved drinking water (urban/rural, %)_31.4/6.5",0.00014201158795802037
+Energy supply per capita (Gigajoules)_81.6/56.8,0.0001418664352376111
+International trade: Exports (million US$)_74111,0.00014186323317381402
+"Pop using improved drinking water (urban/rural, %)_97.5/98.3",0.00014153044673331918
+Agricultural production index (2004-2006=100)_105,0.00014149089756273624
+Education: Primary gross enrol ratio (f/m per 100 pop)_79.8/107.3,0.00014116432271432902
+"Population age distribution (0-14 / 60+ years, %)_28.2/6.6",0.00014114181549590226
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.6/97.3,0.00014110943332414804
+Education: Secondary gross enrol ratio (f/m per 100 pop)_67.4/59.8,0.00014097774457184193
+Energy supply per capita (Gigajoules)_97.8/92.3,0.00014087397296592754
+Education: Primary gross enrol ratio (f/m per 100 pop)_113.8/116.8,0.0001405525771857301
+"Pop using improved drinking water (urban/rural, %)_61.5/55.0",0.0001402915899787991
+International migrant stock (000/% of total pop)_12.6/1.6,0.000139747695928177
+Threatened species (number)_68.5,0.0001395942596014128
+Threatened species (number)_22.1,0.00013947784597657348
+Infant mortality rate (per 1000 live births_25.0,0.00013946881210040468
+Energy supply per capita (Gigajoules)_99.9/99.1,0.00013943118169251563
+International trade: Exports (million US$)_61,0.00013942988650012328
+"Pop using improved drinking water (urban/rural, %)_96.6/92.6",0.00013933561965353194
+International migrant stock (000/% of total pop)_59.3/15.3,0.00013862369368875855
+Threatened species (number)_43.7,0.00013836180406843373
+Threatened species (number)_16.6,0.00013803930043191658
+Education: Secondary gross enrol ratio (f/m per 100 pop)_91.7/80.8,0.00013759696341646984
+Energy supply per capita (Gigajoules)_75.4/28.2,0.00013742107304887065
+Energy supply per capita (Gigajoules)_95.5/75.8,0.0001372892618765443
+Infant mortality rate (per 1000 live births_67.5,0.0001371580564214865
+"Population age distribution (0-14 / 60+ years, %)_50.2/4.2",0.00013701236901949643
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.7/84.4,0.00013690295974434717
+Energy supply per capita (Gigajoules)_91.4/69.2,0.00013677274025243895
+"Pop using improved drinking water (urban/rural, %)_49.3/30.8",0.00013636754520889472
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_24.0/33.6,0.0001363082294610968
+Infant mortality rate (per 1000 live births_11.2,0.00013629460170912425
+"Population age distribution (0-14 / 60+ years, %)_30.2/6.9",0.0001362108595684618
+Energy supply per capita (Gigajoules)_99.5/91.2,0.000135387603390241
+Agricultural production index (2004-2006=100)_66,0.00013528828703390574
+International migrant stock (000/% of total pop)_1082.9/11.4,0.00013503261547110409
+International trade: Exports (million US$)_63581,0.00013491890718137734
+International trade: Exports (million US$)_59884,0.00013435254111485818
+International migrant stock (000/% of total pop)_74.0/0.5,0.00013425340508234183
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_25.2/18.1,0.00013397609411551796
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_24.0/15.6,0.00013394608951911708
+Education: Primary gross enrol ratio (f/m per 100 pop)_116.9/116.8,0.00013390249495108606
+Refugees and others of concern to UNHCR (in thousands)_86.7,0.0001336969829470024
+Energy supply per capita (Gigajoules)_97.5/93.0,0.00013366065165331463
+"Pop using improved drinking water (urban/rural, %)_72.3/47.5",0.00013364876281384637
+Refugees and others of concern to UNHCR (in thousands)_32.6,0.00013359395270817265
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_82.6/54.2,0.0001335009422462138
+Energy supply per capita (Gigajoules)_72.0/46.5,0.00013314859574606712
+International trade: Exports (million US$)_1437,0.00013297934622901893
+International migrant stock (000/% of total pop)_21.0/55.8,0.00013295873462238918
+"Population age distribution (0-14 / 60+ years, %)_39.8/4.9",0.00013291802804571562
+Education: Secondary gross enrol ratio (f/m per 100 pop)_99.4/103.0,0.00013275578210068106
+International trade: Exports (million US$)_622,0.0001325481234643857
+International migrant stock (000/% of total pop)_491.6/0.5,0.0001324835596310788
+Education: Secondary gross enrol ratio (f/m per 100 pop)_41.5/43.9,0.0001324521149609006
+International migrant stock (000/% of total pop)_82.5/13.2,0.00013233623483271896
+"Pop using improved drinking water (urban/rural, %)_97.5/69.9",0.0001316580750493931
+International migrant stock (000/% of total pop)_49.9/3.7,0.00013164416636131157
+Infant mortality rate (per 1000 live births_5.5,0.0001315295002597817
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.9/101.7,0.00013146361380174344
+International trade: Exports (million US$)_145503,0.0001312003097680874
+Education: Secondary gross enrol ratio (f/m per 100 pop)_65.8/66.2,0.00013013895255367398
+Energy supply per capita (Gigajoules)_96.5/64.1,0.00012999236526065625
+Refugees and others of concern to UNHCR (in thousands)_727.1,0.00012978695690069896
+"Population age distribution (0-14 / 60+ years, %)_14.3/26.0",0.0001295389918877216
+Threatened species (number)_33.8,0.00012927125948023691
+Infant mortality rate (per 1000 live births_65.8,0.00012903023430845385
+"Population age distribution (0-14 / 60+ years, %)_14.1/23.4",0.00012894062393492247
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.5/98.8,0.00012879462514798787
+Refugees and others of concern to UNHCR (in thousands)_9.2,0.00012814703868563052
+Energy supply per capita (Gigajoules)_99.4/98.2,0.00012801178206364378
+Threatened species (number)_42.7,0.00012783728403718524
+Energy supply per capita (Gigajoules)_84.9/47.8,0.00012765656834154624
+Agricultural production index (2004-2006=100)_134,0.00012705660338906745
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.2/101.5,0.00012699768315314257
+Education: Primary gross enrol ratio (f/m per 100 pop)_92.6/93.9,0.00012690547421620083
+Education: Primary gross enrol ratio (f/m per 100 pop)_110.9/108.9,0.00012670125222566226
+International trade: Exports (million US$)_461529,0.00012665356857295942
+Threatened species (number)_25.4,0.0001260274050433132
+Refugees and others of concern to UNHCR (in thousands)_84.2,0.00012570458001253494
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_3.4/4.5,0.00012555381081952741
+International trade: Exports (million US$)_2118981,0.00012554253058950297
+International migrant stock (000/% of total pop)_6.7/9.2,0.00012541453475287196
+International trade: Exports (million US$)_195613,0.000125371465022575
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.7/99.3,0.00012519425392145615
+Threatened species (number)_55.8,0.0001250994262266217
+Threatened species (number)_62.0,0.00012508301223639062
+Threatened species (number)_48.1,0.000125075102787138
+International migrant stock (000/% of total pop)_572.5/10.1,0.0001248337866499436
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_102.9/63.5,0.00012448956590522273
+"Population age distribution (0-14 / 60+ years, %)_46.4/4.4",0.00012387444311703243
+"Pop using improved drinking water (urban/rural, %)_86.7/77.7",0.00012376531112805913
+Threatened species (number)_11.7,0.0001236966595566511
+International trade: Exports (million US$)_703,0.00012368107801888448
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_75.5/54.6,0.00012357902187717904
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_1.1/5.7,0.0001234764606003241
+International trade: Exports (million US$)_8494,0.00012345655064370742
+Education: Primary gross enrol ratio (f/m per 100 pop)_116.0/116.7,0.00012343611261705066
+Education: Secondary gross enrol ratio (f/m per 100 pop)_117.3/121.0,0.0001232990973073574
+"Population age distribution (0-14 / 60+ years, %)_41.6/4.6",0.0001226457122240071
+Education: Primary gross enrol ratio (f/m per 100 pop)_128.2/127.0,0.00012251009254586587
+International migrant stock (000/% of total pop)_12.8/13.3,0.00012222828678591313
+Infant mortality rate (per 1000 live births_60.2,0.00012219815647296898
+"Pop using improved drinking water (urban/rural, %)_98.3/85.5",0.00012193428969986306
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.1/97.8,0.00012169108795256462
+Education: Primary gross enrol ratio (f/m per 100 pop)_114.8/117.2,0.00012165013175666428
+Threatened species (number)_45.3,0.00012148093518146576
+International trade: Exports (million US$)_6969,0.00012112670084772747
+"Population age distribution (0-14 / 60+ years, %)_40.5/4.3",0.00012093773635194446
+Education: Secondary gross enrol ratio (f/m per 100 pop)_72.2/67.1,0.00012066875860843276
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.0/103.3,0.00011995518429887629
+Refugees and others of concern to UNHCR (in thousands)_4.7,0.00011992041504668593
+International trade: Exports (million US$)_636,0.00011957109919925589
+International migrant stock (000/% of total pop)_51.1/6.6,0.00011934812065098905
+Infant mortality rate (per 1000 live births_6.0,0.00011900077128593505
+Energy supply per capita (Gigajoules)_99.4/85.6,0.00011888582493670456
+Agricultural production index (2004-2006=100)_155,0.0001185649515780218
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_2.4/7.7,0.0001184598530152327
+Education: Secondary gross enrol ratio (f/m per 100 pop)_53.5/57.8,0.00011839267234151452
+"Pop using improved drinking water (urban/rural, %)_98.6/98.9",0.00011829352994547406
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_30.0/29.9,0.00011829178545337658
+International migrant stock (000/% of total pop)_807.4/9.1,0.00011817901840039814
+"Population age distribution (0-14 / 60+ years, %)_23.4/6.3",0.00011797785201646638
+Agricultural production index (2004-2006=100)_154,0.00011790142627732463
+"Pop using improved drinking water (urban/rural, %)_86.6/63.7",0.0001177196487201074
+International trade: Exports (million US$)_4917,0.00011758891829819108
+"Pop using improved drinking water (urban/rural, %)_60.8/27.5",0.00011699808295386504
+Agricultural production index (2004-2006=100)_69,0.00011681303734097927
+Education: Secondary gross enrol ratio (f/m per 100 pop)_14.0/30.7,0.00011670012710699982
+Threatened species (number)_42.3,0.00011661450382538195
+Education: Secondary gross enrol ratio (f/m per 100 pop)_36.8/45.6,0.00011647592407006122
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_3.6/7.1,0.00011634373364358297
+Threatened species (number)_26.2,0.0001153764509406812
+Infant mortality rate (per 1000 live births_34.1,0.00011516826052107375
+"Population age distribution (0-14 / 60+ years, %)_32.9/6.3",0.00011514328658078325
+Energy supply per capita (Gigajoules)_85.6/69.4,0.00011513561042537842
+Education: Secondary gross enrol ratio (f/m per 100 pop)_92.4/90.5,0.00011476455194890843
+International migrant stock (000/% of total pop)_749.5/1.9,0.00011427259729546
+Threatened species (number)_88.4,0.00011391289418987877
+International trade: Exports (million US$)_1753,0.00011370454614611892
+Energy supply per capita (Gigajoules)_73.2/53.3,0.00011317746438305743
+"Population age distribution (0-14 / 60+ years, %)_18.9/13.7",0.00011296075020678137
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.4/107.2,0.00011231651036267161
+"Population age distribution (0-14 / 60+ years, %)_21.6/19.1",0.00011229734641911912
+Education: Primary gross enrol ratio (f/m per 100 pop)_95.7/98.5,0.00011202638550763444
+"Pop using improved drinking water (urban/rural, %)_22.8/6.9",0.00011161089389069617
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_31.1/15.1,0.0001112285149025069
+"Population age distribution (0-14 / 60+ years, %)_26.4/10.4",0.00011111977559106205
+International migrant stock (000/% of total pop)_12005.7/14.9,0.00011103881160965175
+Education: Primary gross enrol ratio (f/m per 100 pop)_94.2/93.1,0.00011073437806250272
+Infant mortality rate (per 1000 live births_7.2,0.0001107001742193273
+Infant mortality rate (per 1000 live births_19.3,0.00011053471075441565
+International migrant stock (000/% of total pop)_40.3/0.7,0.00011046973680272494
+Education: Secondary gross enrol ratio (f/m per 100 pop)_86.0/85.7,0.00011041282529657626
+"Pop using improved drinking water (urban/rural, %)_97.5/96.6",0.00011034169526870993
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_59.9/51.5,0.00010991324046607368
+International migrant stock (000/% of total pop)_276.8/3.8,0.00010987664422345508
+International trade: Exports (million US$)_51,0.0001097998995470472
+International migrant stock (000/% of total pop)_12.8/6.9,0.00010977145942055077
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_34.6/20.1,0.00010950737735891145
+"Population age distribution (0-14 / 60+ years, %)_16.4/25.0",0.00010906920563058264
+"Population age distribution (0-14 / 60+ years, %)_44.0/4.3",0.00010896685885188707
+Education: Secondary gross enrol ratio (f/m per 100 pop)_103.0/102.0,0.00010842156957890155
+Energy supply per capita (Gigajoules)_78.2/47.0,0.00010818370344376993
+Energy supply per capita (Gigajoules)_66.4/59.2,0.00010811016981768745
+Threatened species (number)_0.4,0.00010793331802924603
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.1/102.8,0.00010761591471051297
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.6/101.1,0.00010754760900682784
+Education: Secondary gross enrol ratio (f/m per 100 pop)_28.1/32.9,0.00010750988166416776
+Infant mortality rate (per 1000 live births_76.3,0.00010747575424734733
+International trade: Exports (million US$)_189414,0.00010696308601913725
+"Population age distribution (0-14 / 60+ years, %)_35.9/6.4",0.00010674017931078373
+Refugees and others of concern to UNHCR (in thousands)_308.6,0.0001063884046591584
+Agricultural production index (2004-2006=100)_140,0.00010632984451397353
+Refugees and others of concern to UNHCR (in thousands)_252.6,0.00010608782467742383
+Energy supply per capita (Gigajoules)_94.0/87.3,0.00010601123640597174
+Refugees and others of concern to UNHCR (in thousands)_33.7,0.00010594630156383404
+Education: Secondary gross enrol ratio (f/m per 100 pop)_79.6/74.1,0.00010564735049299671
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_15.2/19.7,0.00010562326725347098
+Energy supply per capita (Gigajoules)_92.9/67.3,0.00010547142672381523
+"Pop using improved drinking water (urban/rural, %)_65.4/33.8",0.00010505731890165649
+Education: Primary gross enrol ratio (f/m per 100 pop)_111.6/115.4,0.00010496772440622965
+International migrant stock (000/% of total pop)_15.9/0.3,0.00010476610435446423
+Refugees and others of concern to UNHCR (in thousands)_21.8,0.00010425257187661725
+Education: Secondary gross enrol ratio (f/m per 100 pop)_47.1/48.1,0.0001036427902475449
+"Pop using improved drinking water (urban/rural, %)_92.8/82.3",0.00010361267572985614
+Infant mortality rate (per 1000 live births_4.5,0.00010356607282301051
+"Population age distribution (0-14 / 60+ years, %)_16.4/19.6",0.0001035174577543354
+"Pop using improved drinking water (urban/rural, %)_98.2/94.2",0.00010336156317678617
+International migrant stock (000/% of total pop)_138.2/3.4,0.00010311598863848201
+International migrant stock (000/% of total pop)_34.5/12.1,0.00010270313307608234
+"Pop using improved drinking water (urban/rural, %)_43.8/48.6",0.00010269410226574
+Infant mortality rate (per 1000 live births_18.8,0.00010266376784093446
+Energy supply per capita (Gigajoules)_99.4/98.9,0.00010215004704173307
+"Population age distribution (0-14 / 60+ years, %)_41.2/4.2",0.00010201923368435428
+International trade: Exports (million US$)_55658,0.00010194264924676462
+"Pop using improved drinking water (urban/rural, %)_96.8/95.7",0.00010192680729367696
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.2/104.2,0.00010150756908722937
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_2.5/3.7,0.00010142967071116626
+Energy supply per capita (Gigajoules)_88.0/32.8,0.00010118610608798806
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.7/101.7,0.0001010776804355309
+International trade: Exports (million US$)_2755,0.00010104262378470449
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_71.0/57.9,0.0001010418552598241
+Infant mortality rate (per 1000 live births_7.6,0.00010098911370754599
+"Population age distribution (0-14 / 60+ years, %)_42.7/4.8",0.0001009070980929196
+Energy supply per capita (Gigajoules)_99.6/81.4,0.00010051734568753067
+"Pop using improved drinking water (urban/rural, %)_94.4/89.1",0.00010024290074807134
+"Population age distribution (0-14 / 60+ years, %)_31.4/6.4",0.00010021321804326943
+"Population age distribution (0-14 / 60+ years, %)_28.1/5.4",0.00010013757192293208
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_82.5/74.7,9.991776487524505e-05
+International trade: Exports (million US$)_553,9.973225939215725e-05
+International migrant stock (000/% of total pop)_28.1/0.3,9.960305247269787e-05
+Refugees and others of concern to UNHCR (in thousands)_582.4,9.953826682872931e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.8/104.1,9.902100869649508e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_39.7/70.7,9.831143498721765e-05
+"Pop using improved drinking water (urban/rural, %)_69.0/26.8",9.816893771754658e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_110.1/111.3,9.798070681619363e-05
+Energy supply per capita (Gigajoules)_97.5/86.5,9.758225850871402e-05
+Energy supply per capita (Gigajoules)_69.6/8.8,9.755704754106543e-05
+International migrant stock (000/% of total pop)_156.5/2.4,9.720641012166366e-05
+"Pop using improved drinking water (urban/rural, %)_96.2/95.1",9.715933034876357e-05
+"Pop using improved drinking water (urban/rural, %)_100.0/90.9",9.696584820160967e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_95.8/95.7,9.69565825527436e-05
+Agricultural production index (2004-2006=100)_146,9.683720402451211e-05
+International trade: Exports (million US$)_1453167,9.672628242035682e-05
+"Pop using improved drinking water (urban/rural, %)_96.2/78.2",9.671758892547816e-05
+International migrant stock (000/% of total pop)_3142.5/5.8,9.660032386367338e-05
+Threatened species (number)_12.6,9.637763974569117e-05
+International migrant stock (000/% of total pop)_4.7/14.8,9.581103822619091e-05
+"Pop using improved drinking water (urban/rural, %)_97.8/95.8",9.52384592436544e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_141.2/130.7,9.501513555723469e-05
+Infant mortality rate (per 1000 live births_12.7,9.470526923637836e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_6.9/9.1,9.456975260107725e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_150.0/131.5,9.446423532470305e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_95.6/79.3,9.409736045355575e-05
+International migrant stock (000/% of total pop)_1845.0/41.1,9.401875033085674e-05
+Energy supply per capita (Gigajoules)_98.7/65.3,9.38167463006595e-05
+Refugees and others of concern to UNHCR (in thousands)_155.8,9.368348626256535e-05
+Energy supply per capita (Gigajoules)_97.9/97.8,9.345832037975721e-05
+"Pop using improved drinking water (urban/rural, %)_88.0/74.5",9.344171594333957e-05
+International trade: Exports (million US$)_415856,9.332160254164736e-05
+Infant mortality rate (per 1000 live births_22.2,9.316827946303924e-05
+Threatened species (number)_52.7,9.300935681311472e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_121.4/124.2,9.27170155334937e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_45.3/34.6,9.264373815017747e-05
+Energy supply per capita (Gigajoules)_95.2/60.5,9.256584022873548e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_15.1/14.8,9.255149692639045e-05
+Infant mortality rate (per 1000 live births_9.3,9.24888058954716e-05
+Infant mortality rate (per 1000 live births_17.4,9.209147599075217e-05
+"Population age distribution (0-14 / 60+ years, %)_15.0/19.5",9.195467663489835e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_59.3/64.1,9.193577507816615e-05
+International migrant stock (000/% of total pop)_275.1/3.2,9.186687954457471e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_62.0/45.7,9.1729754721075e-05
+Energy supply per capita (Gigajoules)_97.0/97.0,9.143604192045574e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.8/100.6,9.135236764822393e-05
+Refugees and others of concern to UNHCR (in thousands)_21.5,9.12475819401643e-05
+"Population age distribution (0-14 / 60+ years, %)_44.0/4.5",9.110397575725067e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.3/101.4,9.109166576455655e-05
+International migrant stock (000/% of total pop)_261.2/0.5,9.097338493517602e-05
+International migrant stock (000/% of total pop)_28.6/2.2,9.096815081130984e-05
+"Population age distribution (0-14 / 60+ years, %)_14.2/27.7",9.096652928245837e-05
+"Population age distribution (0-14 / 60+ years, %)_28.4/7.3",9.077286363354415e-05
+Threatened species (number)_48.5,9.076407487604205e-05
+International trade: Exports (million US$)_925,9.0531264870575e-05
+Infant mortality rate (per 1000 live births_91.2,9.040982505253e-05
+International trade: Exports (million US$)_2640,9.038131727187446e-05
+International migrant stock (000/% of total pop)_2438.7/29.4,9.018234198539761e-05
+Energy supply per capita (Gigajoules)_100.0/87.0,8.994649024394869e-05
+"Population age distribution (0-14 / 60+ years, %)_21.0/13.2",8.975809845514657e-05
+International migrant stock (000/% of total pop)_7.1/6.6,8.945765437651465e-05
+Threatened species (number)_7.5,8.93399152614922e-05
+Infant mortality rate (per 1000 live births_48.7,8.93157096641829e-05
+Energy supply per capita (Gigajoules)_94.6/77.0,8.914764058085281e-05
+"Pop using improved drinking water (urban/rural, %)_37.5/16.1",8.906742508234933e-05
+"Population age distribution (0-14 / 60+ years, %)_13.9/2.4",8.904488502138179e-05
+International migrant stock (000/% of total pop)_421.7/8.8,8.876731982727298e-05
+"Pop using improved drinking water (urban/rural, %)_99.5/99.6",8.838003579741152e-05
+"Population age distribution (0-14 / 60+ years, %)_16.4/27.8",8.828342943202897e-05
+"Pop using improved drinking water (urban/rural, %)_86.8/83.7",8.819366144682171e-05
+Refugees and others of concern to UNHCR (in thousands)_233.0,8.815287960213477e-05
+Threatened species (number)_31.2,8.807119393853185e-05
+Threatened species (number)_45.4,8.799192824202493e-05
+Agricultural production index (2004-2006=100)_123,8.796778728388645e-05
+Infant mortality rate (per 1000 live births_2.3,8.767129175041465e-05
+Energy supply per capita (Gigajoules)_98.5/80.9,8.765524497454557e-05
+"Pop using improved drinking water (urban/rural, %)_16.4/4.5",8.720215916923057e-05
+Energy supply per capita (Gigajoules)_99.2/92.3,8.716782327975524e-05
+Refugees and others of concern to UNHCR (in thousands)_544.9,8.709376544651028e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_133.4/128.3,8.690527204400102e-05
+Energy supply per capita (Gigajoules)_99.5/95.6,8.643174279615192e-05
+Refugees and others of concern to UNHCR (in thousands)_1.3,8.626258459935462e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_106.1/110.3,8.587040231797771e-05
+International trade: Exports (million US$)_57254,8.586994274581112e-05
+Threatened species (number)_3.4,8.582910242236896e-05
+International trade: Exports (million US$)_410,8.564823238054641e-05
+Threatened species (number)_3.5,8.563215723570911e-05
+International migrant stock (000/% of total pop)_222.9/0.8,8.553400498570522e-05
+"Pop using improved drinking water (urban/rural, %)_97.4/79.8",8.498520475547997e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.2/105.6,8.497761477518158e-05
+"Pop using improved drinking water (urban/rural, %)_32.8/25.4",8.483551713638609e-05
+International trade: Exports (million US$)_2045,8.470436398517118e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_14.9/12.1,8.427636876279523e-05
+Infant mortality rate (per 1000 live births_55.7,8.407142451196188e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_9.2/12.6,8.383274308817925e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.9/102.2,8.315791722649978e-05
+Energy supply per capita (Gigajoules)_91.4/44.2,8.30994242455543e-05
+International migrant stock (000/% of total pop)_6.6/0.3,8.29755511681741e-05
+International migrant stock (000/% of total pop)_2866.1/73.6,8.285997214519708e-05
+International migrant stock (000/% of total pop)_2964.9/3.8,8.272049314589697e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_22.0/11.6,8.266311354028097e-05
+Infant mortality rate (per 1000 live births_18.9,8.250864791698001e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_107.9/101.0,8.24128652939965e-05
+Infant mortality rate (per 1000 live births_16.0,8.224512554860059e-05
+Infant mortality rate (per 1000 live births_6.9,8.219165783850756e-05
+Infant mortality rate (per 1000 live births_47.3,8.161726937883878e-05
+Infant mortality rate (per 1000 live births_15.2,8.134525674705686e-05
+Energy supply per capita (Gigajoules)_99.9/99.8,8.11060099269885e-05
+"Pop using improved drinking water (urban/rural, %)_57.7/62.1",8.065248197270872e-05
+Energy supply per capita (Gigajoules)_92.7/74.4,8.025765822113737e-05
+International trade: Exports (million US$)_285491,8.008085322844298e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_6.7/14.9,8.006559949588704e-05
+Refugees and others of concern to UNHCR (in thousands)_623.3,7.995203097454033e-05
+International trade: Exports (million US$)_885,7.95869465390866e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_118.2/115.5,7.956899333586844e-05
+"Pop using improved drinking water (urban/rural, %)_24.7/2.9",7.945910621075414e-05
+Energy supply per capita (Gigajoules)_99.7/99.4,7.94003861689438e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_11.8/23.0,7.919259189573327e-05
+International migrant stock (000/% of total pop)_1193.2/0.9,7.918027048927532e-05
+International trade: Exports (million US$)_196455,7.90285013258468e-05
+"Pop using improved drinking water (urban/rural, %)_35.6/7.3",7.901186138332436e-05
+Threatened species (number)_54.0,7.855696400240215e-05
+Threatened species (number)_50.0,7.849825967451555e-05
+Refugees and others of concern to UNHCR (in thousands)_16.0,7.832074623234974e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_5.3/10.9,7.787141957667774e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.7/98.1,7.784202273175839e-05
+"Pop using improved drinking water (urban/rural, %)_93.4/88.4",7.731775517042548e-05
+International migrant stock (000/% of total pop)_242.4/0.6,7.731363162216634e-05
+"Population age distribution (0-14 / 60+ years, %)_16.0/20.1",7.69616747398638e-05
+International migrant stock (000/% of total pop)_255.5/5.5,7.695652034093535e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_85.9/86.3,7.672373088780989e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_118.5/125.1,7.655157419066629e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.3/109.4,7.645312392581978e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_97.4/100.5,7.63893888057566e-05
+Infant mortality rate (per 1000 live births_79.5,7.633339633411723e-05
+Threatened species (number)_0.2,7.628320315306909e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.6/102.4,7.62783070963346e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_0.6/1.0,7.62473569618679e-05
+International migrant stock (000/% of total pop)_73.3/0.1,7.602422129654404e-05
+Refugees and others of concern to UNHCR (in thousands)_1.1,7.581508279889027e-05
+Energy supply per capita (Gigajoules)_95.7/95.7,7.563823603748683e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.9/101.6,7.554143324669488e-05
+Energy supply per capita (Gigajoules)_99.3/69.4,7.543300113972534e-05
+International migrant stock (000/% of total pop)_37.5/11.4,7.534898707536415e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.2/110.4,7.514356662287526e-05
+"Pop using improved drinking water (urban/rural, %)_95.5/90.2",7.511425351775345e-05
+International trade: Exports (million US$)_26088,7.495837587711942e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_62.4/58.4,7.492131793570856e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.1/106.0,7.482542782196624e-05
+"Population age distribution (0-14 / 60+ years, %)_46.8/4.0",7.480173765121637e-05
+International migrant stock (000/% of total pop)_127.9/0.8,7.460347297756745e-05
+Threatened species (number)_33.6,7.44468782165252e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_105.3/105.1,7.423123675279187e-05
+"Population age distribution (0-14 / 60+ years, %)_19.1/21.0",7.406318889494386e-05
+"Pop using improved drinking water (urban/rural, %)_89.1/92.9",7.344350182012858e-05
+"Pop using improved drinking water (urban/rural, %)_56.4/13.3",7.318294945096012e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_86.5/85.8,7.296251702011044e-05
+International trade: Exports (million US$)_29,7.284217576068975e-05
+"Population age distribution (0-14 / 60+ years, %)_42.9/4.7",7.277349513499398e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_8.0/8.9,7.269196911864278e-05
+Infant mortality rate (per 1000 live births_43.9,7.250631548635164e-05
+Energy supply per capita (Gigajoules)_100.0/93.9,7.248656795562365e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_108.7/109.3,7.247539221032325e-05
+"Population age distribution (0-14 / 60+ years, %)_27.4/11.6",7.24739893018572e-05
+International migrant stock (000/% of total pop)_236.0/11.4,7.242300125580372e-05
+Region_Melanesia,7.239392396800628e-05
+International trade: Exports (million US$)_27811,7.233939958308687e-05
+Energy supply per capita (Gigajoules)_98.4/98.4,7.221220018043285e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_38.6/23.5,7.217162799917759e-05
+Threatened species (number)_49.8,7.196021773896019e-05
+Infant mortality rate (per 1000 live births_22.5,7.194929538323744e-05
+Refugees and others of concern to UNHCR (in thousands)_151.7,7.142010642527364e-05
+Refugees and others of concern to UNHCR (in thousands)_2437.5,7.107928584946346e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_133.4/131.7,7.102106769956535e-05
+Energy supply per capita (Gigajoules)_81.6/35.3,7.091910437008571e-05
+International trade: Exports (million US$)_20,7.088865543101655e-05
+Infant mortality rate (per 1000 live births_27.8,7.088565985929337e-05
+Infant mortality rate (per 1000 live births_44.0,7.087204805095061e-05
+Infant mortality rate (per 1000 live births_13.8,7.063478401522063e-05
+Threatened species (number)_38.2,7.052172811728985e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_129.4/125.6,7.036599199136294e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_99.0/99.4,7.026124384670285e-05
+International migrant stock (000/% of total pop)_17.6/0.6,7.010883071015046e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_72.2/53.2,6.986504292672245e-05
+Threatened species (number)_3.3,6.977411616750105e-05
+International migrant stock (000/% of total pop)_1639.8/16.8,6.943665789522359e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_79.7/79.2,6.938664743399846e-05
+"Pop using improved drinking water (urban/rural, %)_85.2/67.9",6.930643865158943e-05
+International trade: Exports (million US$)_60571,6.914368815425873e-05
+International trade: Exports (million US$)_4450,6.863282953876045e-05
+International migrant stock (000/% of total pop)_387.5/2.4,6.855983561974226e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.7/102.3,6.849072349362855e-05
+Refugees and others of concern to UNHCR (in thousands)_10.5,6.841793120688463e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_9.2/10.6,6.819063669443079e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_5.5/5.2,6.736287092141446e-05
+Infant mortality rate (per 1000 live births_28.8,6.7274484981069e-05
+"Pop using improved drinking water (urban/rural, %)_93.0/90.2",6.701260709080001e-05
+International migrant stock (000/% of total pop)_8543.1/13.2,6.694667057895886e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_20.7/18.2,6.673032477202148e-05
+Energy supply per capita (Gigajoules)_97.7/92.1,6.66607508694603e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_13.6/13.2,6.65053386361664e-05
+Agricultural production index (2004-2006=100)_115,6.61904083152663e-05
+International migrant stock (000/% of total pop)_160.6/7.1,6.617809457431346e-05
+Refugees and others of concern to UNHCR (in thousands)_240.2,6.597500414767631e-05
+Energy supply per capita (Gigajoules)_95.5/97.8,6.595988614776606e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_27.7/19.2,6.588979230360199e-05
+International migrant stock (000/% of total pop)_1997.8/34.1,6.576797019400917e-05
+International trade: Exports (million US$)_3657,6.533912243495198e-05
+"Population age distribution (0-14 / 60+ years, %)_23.5/11.6",6.528117396559392e-05
+Threatened species (number)_98.3,6.523600985547265e-05
+Threatened species (number)_23.7,6.51794589466093e-05
+"Population age distribution (0-14 / 60+ years, %)_26.5/7.3",6.515568523154159e-05
+"Population age distribution (0-14 / 60+ years, %)_21.7/12.6",6.487088298879186e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_91.9/92.9,6.399087412834646e-05
+Infant mortality rate (per 1000 live births_8.7,6.366106405127684e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_99.6/105.6,6.362900634497562e-05
+Refugees and others of concern to UNHCR (in thousands)_978.3,6.362121232177333e-05
+"Population age distribution (0-14 / 60+ years, %)_25.2/5.6",6.344942650671126e-05
+"Population age distribution (0-14 / 60+ years, %)_47.7/3.3",6.341902616197113e-05
+International migrant stock (000/% of total pop)_5788.9/9.7,6.337101640068264e-05
+Infant mortality rate (per 1000 live births_77.8,6.327333387630296e-05
+"Pop using improved drinking water (urban/rural, %)_86.4/83.8",6.327077567824175e-05
+"Population age distribution (0-14 / 60+ years, %)_36.6/6.8",6.320642616688802e-05
+Threatened species (number)_30.8,6.311367353025753e-05
+International trade: Exports (million US$)_27585,6.309990662043361e-05
+Refugees and others of concern to UNHCR (in thousands)_5.5,6.272079461277252e-05
+Threatened species (number)_30.2,6.267130536972775e-05
+International migrant stock (000/% of total pop)_72.8/0.1,6.261012541164805e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_87.0/79.2,6.257710949558764e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_84.8/80.2,6.257254864663235e-05
+International migrant stock (000/% of total pop)_184.7/4.7,6.22699984912601e-05
+Energy supply per capita (Gigajoules)_92.3/87.2,6.226921183312703e-05
+Infant mortality rate (per 1000 live births_38.9,6.211569764837559e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.3/101.9,6.204782545123589e-05
+Threatened species (number)_0.1,6.198433589121204e-05
+International migrant stock (000/% of total pop)_2086.3/4.8,6.197556599598184e-05
+Infant mortality rate (per 1000 live births_53.8,6.18001072174577e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_97.6/102.4,6.177747206984026e-05
+Infant mortality rate (per 1000 live births_30.5,6.1705009165133e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_27.5/28.7,6.155782242799502e-05
+Threatened species (number)_35.6,6.15180044115912e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_130.4/125.3,6.150936746375767e-05
+Refugees and others of concern to UNHCR (in thousands)_90.8,6.130517882299447e-05
+Energy supply per capita (Gigajoules)_50.7/81.5,6.129964981442884e-05
+International migrant stock (000/% of total pop)_34.8/0.9,6.125358323520939e-05
+Energy supply per capita (Gigajoules)_99.6/91.9,6.0849034273007765e-05
+Refugees and others of concern to UNHCR (in thousands)_23.7,6.0807938395152744e-05
+International migrant stock (000/% of total pop)_191.2/6.3,6.077803131690932e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_85.2/99.7,6.06610936138054e-05
+Threatened species (number)_22.8,6.064313494002835e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_97.1/98.1,6.054337044869165e-05
+Infant mortality rate (per 1000 live births_3.6,6.01692342748829e-05
+Agricultural production index (2004-2006=100)_149,6.014804031253054e-05
+"Pop using improved drinking water (urban/rural, %)_84.1/65.5",6.005056895269523e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_102.9/106.8,5.992099983964365e-05
+Energy supply per capita (Gigajoules)_89.6/54.4,5.9475997308318823e-05
+Threatened species (number)_2.0,5.9156309369512004e-05
+"Pop using improved drinking water (urban/rural, %)_91.5/91.5",5.907570995039817e-05
+Energy supply per capita (Gigajoules)_97.1/92.6,5.825694599564439e-05
+International trade: Exports (million US$)_1776,5.783034187333984e-05
+International trade: Exports (million US$)_4816,5.782282965472924e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_109.3/119.8,5.7584223468670634e-05
+"Pop using improved drinking water (urban/rural, %)_43.6/7.2",5.7529773144403145e-05
+International trade: Exports (million US$)_123,5.740353205031044e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_136.2/137.5,5.713773217127412e-05
+Refugees and others of concern to UNHCR (in thousands)_48.2,5.6875949740521084e-05
+International migrant stock (000/% of total pop)_94.1/25.9,5.664697784483787e-05
+"Pop using improved drinking water (urban/rural, %)_54.5/16.8",5.6579278784886806e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_111.1/107.9,5.656823821709752e-05
+International trade: Exports (million US$)_2256,5.6439708725658685e-05
+"Population age distribution (0-14 / 60+ years, %)_16.5/24.5",5.639266700410218e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_38.2/35.2,5.6354658907013765e-05
+International migrant stock (000/% of total pop)_6.0/10.7,5.619477097219558e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.8/109.4,5.611923814670365e-05
+Infant mortality rate (per 1000 live births_20.0,5.6076803021072675e-05
+International trade: Exports (million US$)_984,5.586750667156757e-05
+Threatened species (number)_12.9,5.585915696367911e-05
+Threatened species (number)_14.4,5.580340657292515e-05
+Threatened species (number)_39.4,5.5778043094750086e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_61.0/61.5,5.561066179487372e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_107.3/109.8,5.558441868559804e-05
+International trade: Exports (million US$)_1962,5.5553406693813224e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_102.2/103.7,5.5533383239023204e-05
+Infant mortality rate (per 1000 live births_11.6,5.5519292422481684e-05
+International trade: Exports (million US$)_304691,5.545396406855233e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_156.3/142.8,5.5452178995934384e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.6/101.4,5.539802165451496e-05
+International trade: Exports (million US$)_616,5.537071727516904e-05
+"Population age distribution (0-14 / 60+ years, %)_37.2/4.4",5.536860734892684e-05
+"Pop using improved drinking water (urban/rural, %)_97.4/92.6",5.5350110209151996e-05
+International migrant stock (000/% of total pop)_2726.4/3.4,5.521474720144806e-05
+Threatened species (number)_16.2,5.5167255969167705e-05
+International migrant stock (000/% of total pop)_315.9/5.7,5.514369171375863e-05
+Infant mortality rate (per 1000 live births_43.8,5.5029006993485006e-05
+Agricultural production index (2004-2006=100)_193,5.497508777093368e-05
+"Pop using improved drinking water (urban/rural, %)_80.7/80.7",5.4961395673916325e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_46.8/66.7,5.4442112106153053e-05
+International migrant stock (000/% of total pop)_264.2/2.7,5.361202508159496e-05
+"Population age distribution (0-14 / 60+ years, %)_40.1/4.9",5.27028090883663e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.7/102.2,5.25210163309057e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_98.3/87.7,5.246311912672814e-05
+International trade: Exports (million US$)_185235,5.2098898578016914e-05
+Threatened species (number)_88.5,5.2063124664169774e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_100.0/90.3,5.202967179683136e-05
+"Pop using improved drinking water (urban/rural, %)_91.6/86.6",5.193483557879054e-05
+"Population age distribution (0-14 / 60+ years, %)_31.3/7.1",5.184149274823648e-05
+Energy supply per capita (Gigajoules)_97.6/98.0,5.158000542900899e-05
+Energy supply per capita (Gigajoules)_94.9/95.2,5.149687933999288e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_88.9/105.7,5.1434054771794246e-05
+International migrant stock (000/% of total pop)_102.1/1.4,5.095789722848053e-05
+"Pop using improved drinking water (urban/rural, %)_78.5/43.1",5.060721787239833e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_123.7/134.2,4.9967539780280645e-05
+"Population age distribution (0-14 / 60+ years, %)_16.4/25.9",4.977818406968804e-05
+Refugees and others of concern to UNHCR (in thousands)_2.8,4.926066025298087e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_16.5/17.3,4.8823096176458016e-05
+"Population age distribution (0-14 / 60+ years, %)_15.4/26.2",4.85902156746061e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_108.2/108.1,4.838512850437867e-05
+International migrant stock (000/% of total pop)_42.1/59.7,4.8337942542226574e-05
+Infant mortality rate (per 1000 live births_9.6,4.8021510342344976e-05
+"Pop using improved drinking water (urban/rural, %)_89.9/96.1",4.800604765094914e-05
+"Pop using improved drinking water (urban/rural, %)_98.9/92.0",4.776968148687463e-05
+Energy supply per capita (Gigajoules)_86.5/87.0,4.7463413410775525e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_61.8/64.4,4.73810749137311e-05
+International migrant stock (000/% of total pop)_81.6/1.7,4.7352648191716335e-05
+Energy supply per capita (Gigajoules)_85.2/72.1,4.7216689718255196e-05
+International trade: Exports (million US$)_329871,4.7038587401607314e-05
+"Population age distribution (0-14 / 60+ years, %)_13.9/2.8",4.6610685708317875e-05
+"Pop using improved drinking water (urban/rural, %)_58.5/62.9",4.5814370638771016e-05
+Infant mortality rate (per 1000 live births_56.3,4.5787895276796464e-05
+Threatened species (number)_31.4,4.524404911154035e-05
+Threatened species (number)_33.9,4.5219952179500294e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_97.9/93.6,4.5186102585337005e-05
+Energy supply per capita (Gigajoules)_94.8/52.7,4.507401817707092e-05
+"Pop using improved drinking water (urban/rural, %)_61.8/26.8",4.495036535241807e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_85.1/79.2,4.4830826643526453e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_110.5/110.8,4.465599371389428e-05
+"Population age distribution (0-14 / 60+ years, %)_14.1/25.1",4.46545102384998e-05
+"Pop using improved drinking water (urban/rural, %)_82.4/60.0",4.454806365086215e-05
+Infant mortality rate (per 1000 live births_4.8,4.400032848023814e-05
+"Pop using improved drinking water (urban/rural, %)_91.4/91.4",4.386523375034055e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.4/105.0,4.376333266762613e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_93.7/122.6,4.3723811984422375e-05
+Energy supply per capita (Gigajoules)_95.5/86.1,4.3672261636271646e-05
+"Population age distribution (0-14 / 60+ years, %)_47.7/4.0",4.310629342177915e-05
+International migrant stock (000/% of total pop)_102.7/24.3,4.282299733246203e-05
+Refugees and others of concern to UNHCR (in thousands)_8.2,4.2667724243933295e-05
+Refugees and others of concern to UNHCR (in thousands)_2231.2,4.258637492295412e-05
+International trade: Exports (million US$)_6505,4.254513184029968e-05
+International trade: Exports (million US$)_4785,4.184733424478339e-05
+"Population age distribution (0-14 / 60+ years, %)_20.7/15.0",4.1837884803994794e-05
+"Population age distribution (0-14 / 60+ years, %)_31.7/7.6",4.1832195503460265e-05
+Energy supply per capita (Gigajoules)_97.2/92.1,4.180125526665471e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_19.6/9.3,4.171987931530774e-05
+International migrant stock (000/% of total pop)_382.0/1.6,4.155027525446361e-05
+"Pop using improved drinking water (urban/rural, %)_83.1/51.1",4.143557758741118e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_112.5/115.8,4.14336547686284e-05
+Infant mortality rate (per 1000 live births_14.6,4.138283649041246e-05
+"Population age distribution (0-14 / 60+ years, %)_40.6/5.3",4.135603334242728e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.7/104.1,4.116699078075487e-05
+"Pop using improved drinking water (urban/rural, %)_20.2/8.6",4.109655652225961e-05
+"Population age distribution (0-14 / 60+ years, %)_35.3/5.8",4.1079987997119065e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_102.0/97.5,4.1021790628865205e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_98.5/68.2,4.099107169518363e-05
+Infant mortality rate (per 1000 live births_4.2,4.0495503315897015e-05
+Agricultural production index (2004-2006=100)_70,4.020652253359832e-05
+Refugees and others of concern to UNHCR (in thousands)_470.5,4.0145461213623245e-05
+"Pop using improved drinking water (urban/rural, %)_88.0/51.5",3.963801647958195e-05
+International trade: Exports (million US$)_281777,3.939975839592765e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_102.2/97.2,3.9282234854696245e-05
+Energy supply per capita (Gigajoules)_99.3/96.9,3.919978883815203e-05
+International trade: Exports (million US$)_641,3.9067208257959066e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_5.4/7.4,3.896954858945623e-05
+Refugees and others of concern to UNHCR (in thousands)_402.1,3.848424126292125e-05
+Threatened species (number)_12.3,3.831673370231927e-05
+"Population age distribution (0-14 / 60+ years, %)_28.4/10.5",3.742011218437069e-05
+"Population age distribution (0-14 / 60+ years, %)_17.3/16.9",3.730173648878368e-05
+International migrant stock (000/% of total pop)_57.6/2.0,3.674522671126591e-05
+"Population age distribution (0-14 / 60+ years, %)_14.8/24.0",3.671312875117494e-05
+International trade: Exports (million US$)_139574,3.556897292370669e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_65.7/58.0,3.5015853755565e-05
+Threatened species (number)_12.5,3.471574448510162e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.6/104.5,3.38691984522374e-05
+Refugees and others of concern to UNHCR (in thousands)_55.3,3.349960914363901e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_110.7/123.5,3.347537272626954e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_109.1/113.5,3.343245364571907e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_65.0/35.4,3.28481768503065e-05
+"Population age distribution (0-14 / 60+ years, %)_23.1/11.1",3.208196750248427e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_124.5/123.1,3.205138769071263e-05
+Infant mortality rate (per 1000 live births_2.1,3.192243151815645e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.6/107.4,3.189713278519005e-05
+"Pop using improved drinking water (urban/rural, %)_97.5/99.9",3.1721950468610186e-05
+Threatened species (number)_33.5,3.1637819751747286e-05
+Infant mortality rate (per 1000 live births_14.8,3.129769615922006e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_2.5/4.9,3.0570116785181474e-05
+Energy supply per capita (Gigajoules)_97.4/64.7,2.9170064380637838e-05
+International migrant stock (000/% of total pop)_263.1/13.4,2.801815991071064e-05
+"Population age distribution (0-14 / 60+ years, %)_43.2/5.5",2.7972803038961634e-05
+"Population age distribution (0-14 / 60+ years, %)_41.5/4.9",2.787533739102839e-05
+Threatened species (number)_31.6,2.7693701886504782e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_9.0/14.2,2.5638490258804752e-05
+Threatened species (number)_19.2,2.3805410241854674e-05
+Agricultural production index (2004-2006=100)_39,2.3145170875723394e-05
+Threatened species (number)_7.7,2.1784217017448022e-05
+Infant mortality rate (per 1000 live births_14.1,2.104359627325441e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_58.5/56.9,2.1025100538176603e-05
+International trade: Exports (million US$)_511714,2.071676595321326e-05
+Infant mortality rate (per 1000 live births_58.1,2.058410403369593e-05
+International migrant stock (000/% of total pop)_1492.4/17.5,2.0400847004606685e-05
+"Pop using improved drinking water (urban/rural, %)_44.6/7.3",2.0222108243201004e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_93.3/95.2,1.8809872751476207e-05
+Threatened species (number)_10.3,1.7753725986882245e-05
+Threatened species (number)_0.8,1.7688550832145878e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_87.6/80.1,1.732624973587283e-05
+Refugees and others of concern to UNHCR (in thousands)_7127.0,1.6790445485529383e-05
+Infant mortality rate (per 1000 live births_17.1,1.6784318655573354e-05
+"Pop using improved drinking water (urban/rural, %)_99.1/99.1",1.6057203811221e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_43.9/6.3,1.572093215370605e-05
+Refugees and others of concern to UNHCR (in thousands)_0.7,1.540086936756833e-05
+Refugees and others of concern to UNHCR (in thousands)_155.1,1.4451085295491196e-05
+International trade: Exports (million US$)_388911,1.441901963603698e-05
+Agricultural production index (2004-2006=100)_80,1.429900866973139e-05
+Energy supply per capita (Gigajoules)_99.0/95.3,1.4080294888007277e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_4.0/5.9,1.3996750678556828e-05
+"Pop using improved drinking water (urban/rural, %)_99.1/99.6",1.3973522312512804e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_93.5/87.7,1.3923390333518161e-05
+Infant mortality rate (per 1000 live births_69.8,1.3649684857610182e-05
+Energy supply per capita (Gigajoules)_96.9/81.4,1.3583841126807875e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.5/98.3,1.3252421369199477e-05
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_54.4/34.5,1.3006421728069495e-05
+"Population age distribution (0-14 / 60+ years, %)_17.5/25.5",1.2852024201985093e-05
+Threatened species (number)_11.1,1.1777224954593318e-05
+Refugees and others of concern to UNHCR (in thousands)_216.7,1.1188762045634955e-05
+Education: Primary gross enrol ratio (f/m per 100 pop)_125.6/120.6,1.1179860690963593e-05
+International trade: Exports (million US$)_8760,1.1125484571009584e-05
+Threatened species (number)_23.1,1.095453962975691e-05
+International migrant stock (000/% of total pop)_7835.5/21.8,1.0762122155495442e-05
+Education: Secondary gross enrol ratio (f/m per 100 pop)_98.5/96.7,1.0166059696659482e-05
+"Population age distribution (0-14 / 60+ years, %)_16.0/23.5",8.846508857333613e-06
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_82.0/55.8,8.518931006179006e-06
+Education: Primary gross enrol ratio (f/m per 100 pop)_125.1/116.0,8.414510769147691e-06
+International migrant stock (000/% of total pop)_263.2/1.7,8.348889356071557e-06
+Education: Secondary gross enrol ratio (f/m per 100 pop)_111.2/110.1,8.312372413368216e-06
+Refugees and others of concern to UNHCR (in thousands)_301.7,8.24741548281748e-06
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_7.8/12.9,8.164544635836025e-06
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_97.1/82.5,8.00075338547624e-06
+International migrant stock (000/% of total pop)_837.3/8.1,7.916786312790323e-06
+"Population age distribution (0-14 / 60+ years, %)_30.9/8.8",7.570844710794138e-06
+Threatened species (number)_21.5,7.453858432770406e-06
+Education: Primary gross enrol ratio (f/m per 100 pop)_105.0/105.7,7.4388047040546e-06
+Energy supply per capita (Gigajoules)_99.7/100.0,7.3903163496751015e-06
+Refugees and others of concern to UNHCR (in thousands)_1052.1,7.226504390206711e-06
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.3/104.0,7.125251001979337e-06
+International migrant stock (000/% of total pop)_1404.4/4.5,7.09397244302163e-06
+Threatened species (number)_22.0,7.02343886111474e-06
+Refugees and others of concern to UNHCR (in thousands)_63.8,7.014992700205775e-06
+International migrant stock (000/% of total pop)_22.3/1.2,6.9958686914127975e-06
+Threatened species (number)_68.9,6.893888878792628e-06
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_33.1/20.4,6.8682832046336726e-06
+Threatened species (number)_19.3,6.834336383322479e-06
+"Population age distribution (0-14 / 60+ years, %)_26.7/10.1",6.822619534198802e-06
+International trade: Exports (million US$)_36369,6.687370228825612e-06
+Threatened species (number)_38.7,6.62766999697078e-06
+International trade: Exports (million US$)_12892,6.064196889304084e-06
+Threatened species (number)_72.0,5.6383364483708394e-06
+Refugees and others of concern to UNHCR (in thousands)_356.2,5.612121197776925e-06
+"Population age distribution (0-14 / 60+ years, %)_39.6/4.6",5.591999975344409e-06
+Energy supply per capita (Gigajoules)_93.1/48.6,5.410261697762772e-06
+International migrant stock (000/% of total pop)_7784.4/12.1,5.13770484093881e-06
+"Population age distribution (0-14 / 60+ years, %)_21.1/4.9",4.9739598138370184e-06
+International migrant stock (000/% of total pop)_1242.5/11.3,4.8601749968255505e-06
+Energy supply per capita (Gigajoules)_99.6/100.0,4.859178120311006e-06
+Education: Secondary gross enrol ratio (f/m per 100 pop)_110.0/109.8,4.753275419413962e-06
+Threatened species (number)_43.2,4.633490360531734e-06
+"Pop using improved drinking water (urban/rural, %)_100.0/99.0",4.558714449165828e-06
+International trade: Exports (million US$)_354,4.519669259742068e-06
+Education: Primary gross enrol ratio (f/m per 100 pop)_91.1/131.6,4.425407829758619e-06
+Threatened species (number)_32.7,4.36299304100336e-06
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.1/100.1,4.163278475843512e-06
+"Population age distribution (0-14 / 60+ years, %)_41.0/4.8",4.12503079502233e-06
+Education: Primary gross enrol ratio (f/m per 100 pop)_116.2/117.1,4.065577344569349e-06
+"Population age distribution (0-14 / 60+ years, %)_22.2/13.3",4.031619023304177e-06
+"Pop using improved drinking water (urban/rural, %)_84.7/91.9",3.940895717642452e-06
+Energy supply per capita (Gigajoules)_99.5/97.9,3.864101501077361e-06
+Education: Secondary gross enrol ratio (f/m per 100 pop)_105.0/107.9,3.6529656048439584e-06
+Refugees and others of concern to UNHCR (in thousands)_1.5,3.488500980388548e-06
+"Pop using improved drinking water (urban/rural, %)_84.3/77.1",3.405251971736981e-06
+International trade: Exports (million US$)_2130,3.385772287245347e-06
+Agricultural production index (2004-2006=100)_167,3.1000871978038836e-06
+International migrant stock (000/% of total pop)_286.8/2.6,3.0204978982204877e-06
+"Pop using improved drinking water (urban/rural, %)_33.5/8.5",2.9888404743468106e-06
+"Population age distribution (0-14 / 60+ years, %)_17.7/23.9",2.9430683513118825e-06
+Threatened species (number)_69.2,2.7809042030528557e-06
+International migrant stock (000/% of total pop)_1387.9/12.3,2.651700483333664e-06
+Energy supply per capita (Gigajoules)_100.0/99.2,2.592441681169278e-06
+Refugees and others of concern to UNHCR (in thousands)_254.1,2.572262791423167e-06
+International migrant stock (000/% of total pop)_25.3/0.2,2.2138402687033713e-06
+"Pop using improved drinking water (urban/rural, %)_99.2/99.6",2.0937653187338024e-06
+Refugees and others of concern to UNHCR (in thousands)_616.5,2.0547970852772073e-06
+"Population age distribution (0-14 / 60+ years, %)_14.9/24.1",2.009366359578333e-06
+"Pop using improved drinking water (urban/rural, %)_37.3/27.6",1.94970006363065e-06
+"Population age distribution (0-14 / 60+ years, %)_18.9/21.5",1.9343752804573865e-06
+Energy supply per capita (Gigajoules)_92.7/67.4,1.6703494256852183e-06
+Threatened species (number)_36.8,1.6495512521283683e-06
+Energy supply per capita (Gigajoules)_90.9/91.8,1.5124621929759945e-06
+Education: Secondary gross enrol ratio (f/m per 100 pop)_34.6/45.8,1.4776978149640668e-06
+Refugees and others of concern to UNHCR (in thousands)_554.1,1.4694989827534885e-06
+International trade: Exports (million US$)_335,1.416814641196569e-06
+Infant mortality rate (per 1000 live births_13.0,9.504766281780498e-07
+Threatened species (number)_54.3,9.303942556237098e-07
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_67.7/75.9,8.693891535446244e-07
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_1.5/4.1,8.361230384649728e-07
+Education: Secondary gross enrol ratio (f/m per 100 pop)_102.7/88.2,7.63409674300753e-07
+"Population age distribution (0-14 / 60+ years, %)_15.7/17.6",6.442693817506766e-07
+"Population age distribution (0-14 / 60+ years, %)_15.5/23.2",5.464814393387285e-07
+"Population age distribution (0-14 / 60+ years, %)_13.1/28.0",4.707420041004774e-07
+"Pop using improved drinking water (urban/rural, %)_99.2/98.1",4.6846013371519286e-07
+Infant mortality rate (per 1000 live births_27.7,4.5811510696042706e-07
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_96.3/69.7,3.6055974706393937e-07
+"Pop using improved drinking water (urban/rural, %)_99.6/99.6",3.02371785105162e-07
+"Pop using improved drinking water (urban/rural, %)_99.4/88.0",2.8352799167686865e-07
+Refugees and others of concern to UNHCR (in thousands)_157.6,2.314054755772185e-07
+"Pop using improved drinking water (urban/rural, %)_76.5/55.7",1.179826887953866e-18
+Refugees and others of concern to UNHCR (in thousands)_3.7,5.858220541534459e-19
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_99.6/72.8,5.360527270878794e-19
+"Population age distribution (0-14 / 60+ years, %)_20.0/16.9",4.646430632745153e-19
+Education: Secondary gross enrol ratio (f/m per 100 pop)_80.7/74.6,3.195519300854498e-19
+Education: Secondary gross enrol ratio (f/m per 100 pop)_78.3/72.9,3.1195908030895355e-19
+International migrant stock (000/% of total pop)_704.1/51.1,3.0196291567574494e-19
+Education: Secondary gross enrol ratio (f/m per 100 pop)_32.5/41.9,2.967267922222038e-19
+International migrant stock (000/% of total pop)_1687.6/75.5,2.1982222709862817e-19
+"Population age distribution (0-14 / 60+ years, %)_27.9/16.1",2.1873823567336705e-19
+International trade: Exports (million US$)_11433,2.0847170720289134e-19
+International trade: Exports (million US$)_94355,2.0593491773556588e-19
+Refugees and others of concern to UNHCR (in thousands)_103.2,2.008897839554348e-19
+Energy supply per capita (Gigajoules)_86.6/71.9,1.8308502161818893e-19
+"Pop using improved drinking water (urban/rural, %)_99.3/99.0",1.5078085568330656e-19
+Infant mortality rate (per 1000 live births_9.2,1.5027563996126756e-19
+Energy supply per capita (Gigajoules)_91.1/73.8,1.468360507704194e-19
+Threatened species (number)_14.7,1.4647480240852927e-19
+Refugees and others of concern to UNHCR (in thousands)_10.1,1.4635648209717158e-19
+International trade: Exports (million US$)_22858,1.3965030917905814e-19
+"Population age distribution (0-14 / 60+ years, %)_23.7/8.8",1.2398077244710792e-19
+International migrant stock (000/% of total pop)_32.1/0.1,1.234022607521791e-19
+Threatened species (number)_15.0,9.147280131073225e-20
+"Pop using improved drinking water (urban/rural, %)_99.2/99.2",0.0
+International trade: Exports (million US$)_5335,0.0
+International trade: Exports (million US$)_213,0.0
+International trade: Exports (million US$)_18000,0.0
+International trade: Exports (million US$)_1623,0.0
+International trade: Exports (million US$)_875,0.0
+International trade: Exports (million US$)_213927,0.0
+International trade: Exports (million US$)_1340752,0.0
+"Pop using improved drinking water (urban/rural, %)_99.6/99.8",0.0
+International trade: Exports (million US$)_5327,0.0
+International trade: Exports (million US$)_36040,0.0
+"Pop using improved drinking water (urban/rural, %)_88.1/30.5",0.0
+Agricultural production index (2004-2006=100)_179,0.0
+Agricultural production index (2004-2006=100)_147,0.0
+International trade: Exports (million US$)_488885,0.0
+International trade: Exports (million US$)_103071,0.0
+Agricultural production index (2004-2006=100)_93,0.0
+International trade: Exports (million US$)_94,0.0
+"Pop using improved drinking water (urban/rural, %)_99.5/99.4",0.0
+Agricultural production index (2004-2006=100)_82,0.0
+International trade: Exports (million US$)_46238,0.0
+International trade: Exports (million US$)_47,0.0
+International trade: Exports (million US$)_398033,0.0
+Refugees and others of concern to UNHCR (in thousands)_2.3,0.0
+"Pop using improved drinking water (urban/rural, %)_83.5/58.0",0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_111.7/115.5,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_99.2/100.1,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_98.7/108.1,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_97.2/106.9,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_96.9/96.6,0.0
+Threatened species (number)_22.6,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_83.8/98.6,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_148.9/148.9,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_112.7/119.5,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_111.2/107.4,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_106.1/110.0,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_108.1/108.4,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_108.0/117.5,0.0
+Threatened species (number)_34.9,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_104.7/105.2,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.7/103.2,0.0
+Threatened species (number)_42.1,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.2/103.6,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_103.0/102.4,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_101.9/102.4,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_111.5/88.0,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.4/101.7,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_1.7/3.4,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_45.1/28.9,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_40.3/31.4,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_59.4/30.9,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_35.6/36.9,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_64.1/49.0,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_66.8/69.7,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_66.9/50.2,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_68.1/48.7,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_75.7/49.6,0.0
+Threatened species (number)_1.5,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_79.8/58.8,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_98.2/100.2,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_8.4/22.4,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_85.7/87.1,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_88.3/72.9,0.0
+Education: Tertiary gross enrol ratio (f/m per 100 pop)_89.2/74.3,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_177.7/156.4,0.0
+Education: Secondary gross enrol ratio (f/m per 100 pop)_136.3/134.7,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_102.0/100.9,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_101.2/99.8,0.0
+"Population age distribution (0-14 / 60+ years, %)_13.6/27.9",0.0
+"Population age distribution (0-14 / 60+ years, %)_43.6/5.4",0.0
+Energy supply per capita (Gigajoules)_98.3/98.3,0.0
+International migrant stock (000/% of total pop)_228.4/1.8,0.0
+International migrant stock (000/% of total pop)_226.9/1.2,0.0
+International migrant stock (000/% of total pop)_1979.5/11.7,0.0
+International migrant stock (000/% of total pop)_11643.3/8.1,0.0
+International migrant stock (000/% of total pop)_10.8/0.9,0.0
+"Population age distribution (0-14 / 60+ years, %)_45.3/3.8",0.0
+"Population age distribution (0-14 / 60+ years, %)_44.8/3.7",0.0
+"Population age distribution (0-14 / 60+ years, %)_37.2/4.8",0.0
+International migrant stock (000/% of total pop)_5853.0/12.7,0.0
+"Population age distribution (0-14 / 60+ years, %)_35.4/6.7",0.0
+"Population age distribution (0-14 / 60+ years, %)_31.1/6.4",0.0
+"Population age distribution (0-14 / 60+ years, %)_24.0/12.3",0.0
+"Population age distribution (0-14 / 60+ years, %)_18.1/21.3",0.0
+"Population age distribution (0-14 / 60+ years, %)_17.4/19.0",0.0
+"Population age distribution (0-14 / 60+ years, %)_17.1/24.6",0.0
+"Population age distribution (0-14 / 60+ years, %)_15.0/26.3",0.0
+"Population age distribution (0-14 / 60+ years, %)_14.7/25.3",0.0
+International migrant stock (000/% of total pop)_4834.9/10.8,0.0
+International migrant stock (000/% of total pop)_713.6/0.3,0.0
+Education: Primary gross enrol ratio (f/m per 100 pop)_100.9/100.1,0.0
+Refugees and others of concern to UNHCR (in thousands)_211.1,0.0
+Infant mortality rate (per 1000 live births_8.4,0.0
+Threatened species (number)_52.8,0.0
+Infant mortality rate (per 1000 live births_68.0,0.0
+Threatened species (number)_55.4,0.0
+Infant mortality rate (per 1000 live births_41.3,0.0
+Threatened species (number)_65.6,0.0
+Energy supply per capita (Gigajoules)_100.0/48.6,0.0
+Refugees and others of concern to UNHCR (in thousands)_348.5,0.0
+Energy supply per capita (Gigajoules)_84.3/81.8,0.0
+International migrant stock (000/% of total pop)_746.3/15.9,0.0
+Refugees and others of concern to UNHCR (in thousands)_20.5,0.0
+Energy supply per capita (Gigajoules)_85.6/51.3,0.0
+Refugees and others of concern to UNHCR (in thousands)_19.3,0.0
+Refugees and others of concern to UNHCR (in thousands)_166.4,0.0
+Energy supply per capita (Gigajoules)_92.6/89.1,0.0
+Refugees and others of concern to UNHCR (in thousands)_116.3,0.0
+Refugees and others of concern to UNHCR (in thousands)_110.1,0.0
+International migrant stock (000/% of total pop)_88.5/0.3,0.0
+"Pop using improved drinking water (urban/rural, %)_99.9/99.8",0.0

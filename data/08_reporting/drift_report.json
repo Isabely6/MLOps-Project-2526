@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-06-30T16:33:37+00:00",
+  "n_reference": 182,
+  "n_current": 182,
+  "thresholds": {
+    "psi_warning": 0.1,
+    "psi_critical": 0.2,
+    "ks_pvalue_threshold": 0.05
+  },
+  "features": [
+    {
+      "feature": "Population",
+      "psi": 0.0,
+      "psi_level": "none",
+      "ks_statistic": 0.0,
+      "ks_p_value": 1.0,
+      "js_divergence": 0.0,
+      "drift_detected": false
+    },
+    {
+      "feature": "GDP_per_capita",
+      "psi": 0.065659,
+      "psi_level": "none",
+      "ks_statistic": 0.098901,
+      "ks_p_value": 0.336302,
+      "js_divergence": 0.037148,
+      "drift_detected": false
+    },
+    {
+      "feature": "Life_expectancy",
+      "psi": 0.622972,
+      "psi_level": "significant",
+      "ks_statistic": 0.252747,
+      "ks_p_value": 1.6e-05,
+      "js_divergence": 0.132814,
+      "drift_detected": true
+    },
+    {
+      "feature": "Health_expenditure",
+      "psi": 12.332813,
+      "psi_level": "significant",
+      "ks_statistic": 1.0,
+      "ks_p_value": 0.0,
+      "js_divergence": 1.0,
+      "drift_detected": true
+    },
+    {
+      "feature": "Internet_usage",
+      "psi": 0.006099,
+      "psi_level": "none",
+      "ks_statistic": 0.015584,
+      "ks_p_value": 1.0,
+      "js_divergence": 0.004432,
+      "drift_detected": false
+    },
+    {
+      "feature": "CO2_emissions",
+      "psi": 0.0,
+      "psi_level": "none",
+      "ks_statistic": 0.0,
+      "ks_p_value": 1.0,
+      "js_divergence": 0.0,
+      "drift_detected": false
+    }
+  ],
+  "n_features": 6,
+  "n_features_drifted": 2,
+  "share_features_drifted": 0.3333,
+  "dataset_drift": true,
+  "drift_types_note": "This pipeline measures DATA / COVARIATE drift, i.e. changes in P(X). Prediction drift (shift in the model's output distribution) and CONCEPT drift (changes in P(Y|X) or measured performance) cannot be confirmed here because ground-truth labels for the current batch are not available."
+}

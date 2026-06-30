@@ -1,0 +1,58 @@
+column,dtype,missing_pct
+country,object,0.0
+Region,object,0.0
+Surface area (km2),float64,0.0
+Population,int64,0.0
+"Population density (per km2, 2017)",float64,0.0
+"Sex ratio (m per 100 f, 2017)",float64,0.0
+GDP: Gross domestic product (million current US$),float64,0.0
+"GDP growth rate (annual %, const 2005 prices)",float64,0.0
+GDP_per_capita,float64,0.0
+Economy: Agriculture (% of GVA),float64,0.02197802197802198
+Economy: Industry (% of GVA),float64,0.0
+Economy: Services and other activity (% of GVA),float64,0.0
+Employment: Agriculture (% of employed),float64,0.054945054945054944
+Employment: Industry (% of employed),float64,0.054945054945054944
+Employment: Services (% of employed),float64,0.054945054945054944
+Unemployment (% of labour force),float64,0.0
+Agricultural production index (2004-2006=100),object,0.03296703296703297
+Food production index (2004-2006=100),int64,0.0
+International trade: Exports (million US$),object,0.027472527472527472
+International trade: Imports (million US$),float64,0.027472527472527472
+International trade: Balance (million US$),float64,0.027472527472527472
+"Balance of payments, current account (million US$)",float64,0.12087912087912088
+Population growth rate (average annual %),float64,0.0
+Urban population (% of total population),float64,0.0
+Urban population growth rate (average annual %),float64,0.016483516483516484
+"Fertility rate, total (live births per woman)",float64,0.0
+"Population age distribution (0-14 / 60+ years, %)",object,0.005494505494505495
+International migrant stock (000/% of total pop),object,0.0
+Refugees and others of concern to UNHCR (in thousands),object,0.08241758241758242
+Infant mortality rate (per 1000 live births,object,0.04395604395604396
+Health_expenditure,float64,0.0
+Health: Physicians (per 1000 pop),float64,0.0
+Education: Government expenditure (% of GDP),float64,0.25274725274725274
+Education: Primary gross enrol ratio (f/m per 100 pop),object,0.04395604395604396
+Education: Secondary gross enrol ratio (f/m per 100 pop),object,0.07142857142857142
+Education: Tertiary gross enrol ratio (f/m per 100 pop),object,0.09340659340659341
+Seats held by women in national parliaments %,float64,0.02197802197802198
+Mobile-cellular subscriptions (per 100 inhabitants)39,float64,0.01098901098901099
+Mobile-cellular subscriptions (per 100 inhabitants)40,float64,0.01098901098901099
+Internet_usage,float64,0.0
+Threatened species (number),object,0.02197802197802198
+CO2_emissions,float64,0.027472527472527472
+"Energy production, primary (Petajoules)",int64,0.0
+Energy supply per capita (Gigajoules),object,0.03296703296703297
+"Pop using improved drinking water (urban/rural, %)",object,0.038461538461538464
+"Pop using improved sanitation facilities (urban/rural, %)",float64,0.13186813186813187
+Life_expectancy_female,float64,0.0
+Life_expectancy_male,float64,0.0
+Labour force participation (female/male pop %)_female,float64,0.0
+Labour force participation (female/male pop %)_male,float64,0.0
+Life_expectancy,float64,0.0
+Confirmed,int64,0.0
+Deaths,int64,0.0
+Recovered,int64,0.0
+Active,int64,0.0
+mortality_rate,float64,0.0
+mortality_severity,category,0.0
