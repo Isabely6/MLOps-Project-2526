@@ -23,9 +23,8 @@ src/mlops_project/
   app/                FastAPI serving app (main.py, schemas.py)
   pipeline_registry.py
 tests/                pytest suite (unit / behaviour / API)
-Dockerfile · docker-compose.yml · .dockerignore
+Dockerfile · docker-compose.yml
 requirements.txt · requirements-api.txt · requirements-monitoring.txt
-docs/report_member4.md
 ```
 
 The pipeline lifecycle:
@@ -203,5 +202,5 @@ model-info/predict, validation, and API-vs-model parity).
   a managed feature store (Hopsworks/Feast), a remote MLflow server, and Spark for large
   data. Concept drift cannot be confirmed without delayed ground-truth labels.
 
-See `docs/report_member4.md` for the deployment architecture, monitoring and production
-discussion, plus the package/version inventory.
+See the accompanying project report for the deployment architecture, monitoring and
+production discussion, plus the package/version inventory.

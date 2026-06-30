@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Kedro local config (machine-specific, keep the folder via .gitkeep)
+conf/local/**
+!conf/local/.gitkeep
